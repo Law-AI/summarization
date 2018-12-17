@@ -1,0 +1,398 @@
+﻿<caseDesc>
+STATE OF BIHAR V. BISHNU CHAND LAL CHAUDHARY & ORS [1985] INSC 1; AIR 1985 SC 285; 1985 (2) SCR 527; 1985 (1) SCC 449; 1985 (1) SCALE 1 (8 January 1985)   
+</caseDesc>
+
+
+<proposition>
+
+S1 FI This appeal by certificate under Article 133 (1) (a) of the Constitution arises out of an action in tort for damages for trespass and unauthorised interference by the defendants with the A proprietary interest of the plaintiff. 
+
+
+S2 FI The defendants were the State of Bihar and J.P. Mukherjee, an officer in the service of the Bihar Government.
+
+
+S3 FI The plaintiff, Prithwi Chand Lall Choudhary was the karta of a Hindu joint family which owned extensive properties collectively known as the "Raj Nazarganj". 
+
+
+S4 FI The said properties were spread over the District of Purnea and some other districts in the State of Bihar as also in the State of West Bengal. 
+
+
+S5 FI The plaintiff was the recorded proprietor of several tauzis situated in the Districts of Purnea and Monghyr and also the proprietor of several tenures and patnis within the said Districts. 
+
+
+S6 FI The plaintiff was liable to pay about Rs. 2,50,000 by way of taxes, cesses etc. annually.
+
+S7 FI In the year 1949, the Bihar Legislature passed a law known as the Bihar State Management of Estates and Tenures Act, 1949 (Bihar Act XXI of 1949) (hereinafter referred to as 'the Act') to provide for the management of estates and tenures in the Province of Bihar. 
+
+S8 FI It received the assent of the Governor-General on September 29, 1949 and was published in the Bihar Gazette Extraordinary of October 17, 1919. 
+
+S9 FI On the coming into force of the Constitution of January 26, 1950, the Act was certified by the President in exercise of his powers conferred by Article 31 (6) of the Constitution.
+
+S10 SS The said certificate which was published in Notification No. 43/3/50-Judicial dated March 11, 1950 read as follows: That the said Act shall not be called in question in any court on the ground that it contravenes the provisions of clause (2) of Article 31, or has contravened the provisions of sub-section (2) of section 299 of the Government of India Act, 1935.
+
+S11 SS Clauses (2) and (6) of Article 31 which are relevant for these cases as they stood at the commencement of the Constitution read as follows:- 31. (1) (2) No property, moveable or immovable, including any interest in, or in any company owning, any commercial or industrial undertaking, shall be taken possession of or acquired for public purposes under any law authorising the taking of such possession or such acquisition, unless the law provides for compensation for the property taken possession of or acquired and either fixes the amount of the compensation, or specifies the principles on which, and the manner in which, the compensation is to be determined and given.
+
+S12 SS (6) Any law of the State enacted not more than eighteen months before the commencement of this Constitution may within three months from such commencement be submitted to the President for his certification; and thereupon, if the President by public notification so certifies, it shall not be called in question in any court on the ground that it contravenes the provisions of clause (2) of this article or has contravened the provisions of sub- section (2) of section 299 of the Government of India Act, 1935.
+
+
+S13 R A persual of the provisions of the Act shows that it was intended to bring about a reform in the land distribution system of Bihar for the general benefit of the community. 
+
+S14 R l`he taking over of the management and control over land was found to be necessary as a preliminary step towards the implementation of the Directive Principles of State Policy. 
+
+S15 R The Act was similar in nature to the Bihar Land Reforms Act (Act XXX of 1950), the constitutional validity of which was considered by this Court in The State of Bihar v Maharajadhiraja Sir Kameshwar Singh of Darbanga Ors (1) 
+
+S16 R The object of the Act was to bring the Government face to face with the cultivators of the soil in order to facilitate the further reform of abolition of zamindari.
+
+S17 R It was also intended to make provision for better irrigation facilities and to prevent realisation of excessive rent or revenue from the cultivators. 
+
+S18 SS The Statement of Objects and Reasons of the Act published in the Bihar Gazette said: “For some years past there has been wide spread anti zamindari agitation amongst the cultivators of the province leading to frequent agrarian troubles. These troubles, as is well known, owe their origin to the feeling of dissatisfaction that the tenants have against the landlords owing to the latter's failure to provide for the upkeep of irrigational facilities, to the realisation of abwab, to the enhancement of rents and to ejectment from holdings and other similar causes. The landlord's apathy towards the upkeep of the irrigational facilities has been considerably accentuated recently on account of the large scale commutation of rents in kind into cash rents. Hence this Bill. It is proposed under Government management to make adequate arrangements for saving the cultivators from the harassment to which they are often subjected at present by the amlas of the zamindars, to save them from the ruinous financial drain of litigation for the recovery of arrears of rents and above all to benefit them by providing for irrigation facilities. After making payment for objects specified in the Bill and reserving a reasonable balance for cost of management, the net surplus will be paid over to the proprietors.”   
+
+S19 SS Section 3 to 5 c-f the Act were in Chapter 11 of the Act. Section 3 provided as follows :- "3. (1) The Provincial Government may, by notification declare that the estates or tenures of a proprietor or tenure holder, specified in the notification, shall be placed under the management of the Provincial Government, and on the publication of the said notification, the estates or tenures of such proprietor or tenure-holder shall, so long as the notification remains in force, be deemed to have been placed under the management of the Provincial Government with effect from the date of the commencement of management. (2) The notification under sub-section (1) shall- (a) specify such particulars of the estates or tenures as may be prescribed; (b) specify the period for which the estates or tenures shall be placed under the management of the Provincial Government; and (c) vest the management of such estates or tenures in a person who shall be an officer not below the rank of Deputy Collector (hereinafter called the Manager) (3) The notification under sub-section (1) shall be published in the Official Gazette and a copy of such notification shall be sent by registered post, with an acknowledgment due, to the proprietor of the estates recorded in the general registers of revenue-paying or revenue-free lands maintained under the Land Registration Act, 1876, or in case such estates are not recorded in any such registers, and in the case of tenure-holders, to the proprietor or tenure-holder of the estates or tenures, as the case may be, if the Collector of the district is in possession of a list of Such proprietors or tenure holders together with their addresses (4) The publication and posting of such notification, where such notification is sent by post, in the manner provided in sub-section (3), shall be conclusive evidence of the notice of the declaration to the proprietor or tenure-holder whose estates or tenures are affected by the notification under sub-section (1) and of the service of such notice on the proprietor or tenure-holder 7'
+
+S20 SS Section 4 of the Act laid down the consequences of the issue of a notification in respect of any estate or tenure.
+
+S21 SS It provided inter alia that (a) the proprietor or tenure- holder shall cease to have any power of management of his estates or tenures and (b) subject to the provisions of sections 7, 8, 9, 10. 11 and 12, the Manager shall take charge of such estates or tenures together with such buildings, papers and other properties appertaining to the estates or tenures, as in the opinion of the Manager are essential for the proper management of the estates or tenures.
+
+S22 SS Section 5 of the Act read as follows: "5. The Manager may, by a written order, require the proprietor or tenure-holder or his agents and employees on a date to be specified in such order to produce before him such documents, papers or registers relating to the estates or tenures of such proprietor or tenure-holder or to furnish him with such information as the Manager may deem necessary for the management of the estates or tenures: Provided that the proprietor or tenure-holder shall have A the option to comply with such written order either himself or through authorised agent.
+
+S23 SS Chapter III of the Act contained the special provisions regarding trust estates or tenures, homesteads and lands used for agricultural and horticultural purposes and certain buildings comprised in estates or tenures placed under the management of the Provincial Government. 
+
+S24 SS Chapter IV of the Act authorised the removal of mortgagees and lessees in possession of an estate or tenure. 
+
+S25 SS Chapter V contained provisions regarding the filing of claims by secured creditors and other persons in possession of the estate or tenure, determination of liabilities and preparation of scheme for their liquidation. 
+
+S26 SS Chapter VI of the Act provided for the filing of claims by creditors other than secured creditors. Chapter VII made provisions for granting protection from sale of certain estates. 
+
+S27 SS Chapter VIII of the Act contained detailed provisions regarding the management of the estates by the Manager. Section 22 of the Act which was in Chapter VIII provided that 'every Manager shall manage the property committed to him diligently and faithfully and shall, in every respect, act to the best of his judgment'.
+
+S28 SS Chapter IX of the Act provided for an appeal to the order of prescribed authority against the Manager.
+
+S29 SS Chapter X made provision for the constitution of Estates and Tenures Management Advisory Committee and their functions.
+
+S30 SS Sections 30 and 31 of the Act which were in Chapter XI of the Act barred the jurisdiction of courts regarding matters referred to therein. They read as under:
+
+S31 SS "30. Notwithstanding anything contained in any law or anything having the force of law, the declaration of the Provincial Government under sub- section (1) of section 3 and the order of the Manager under sub-section (1) of section 13 or where on appeal has been preferred, the order of the appellate authority under section 27, shall, subject to the provisions of this Act, be final and shall not be questioned in any Court; and so long as the management of the estates and tenures by the Provincial Government continues, it shall not be lawful for any court to pass any order or do anything which may in any way interfere or have the effect of interfering with such management by the Provincial Government.
+
+S32 SS 31. No suit or other legal proceeding shall lie in any court against the Crown or any servant of the Crown or against any person acting under the orders of a servant of the Crown for, or on account of, or in respect of, anything done or purporting to be done in good faith under this Act or in respect of any alleged neglect or omission to perform any duty devolving on the Provincial Government or any of the officers subordinate to it and acting under this Act or in respect of the exercise of, or the failure to exercise, any power conferred by this Act, on the Provincial Government or any officer subordinate to it and acting under this Act, except for the loss or the misapplication occasioned by the wilful default or gross-negligence of any officer of the Provincial Government.
+
+S33 SS Chapter XII of the Act contained some miscellaneous provisions regarding suits and appeals by or against the proprietor or tenure-holder during the period of management by the Government. 
+
+S34 SS Section 33 in Chapter XIII of the Act provided for relinquishment of management of an estate taken over by the Government and other consequential matters. 
+
+S35 SS The other parts of the Act contained provisions regarding other miscellaneous matters.
+
+S36 FI By a notification dated November 19, 1949 issued under section 3 (1) of the Act the estate of the plaintiff i.e. the 'Raj Nazarganj Estate' was taken under the management of the State Government. J P Mukherjee, defendant No. 2, who was the Additional Collector of Darbhanga, was appointed as the Manager of the said estate. 
+
+S37 FI In the meanwhile the Maharajadhiraja of Darbhanga, Sir Kameshwar Singh filed a suit in the Civil Court challenging the validity of the Act as his estate also had been similarly notified under section 3 (1) of the Act. 
+
+S38 FI That suit was withdrawn by the Patna High Court being tried in its Extraordinary Original Civil Jurisdiction. 
+
+S39 LR That suit was decided on June 5, 1950. 
+
+S40 FI The judgment of the High Court in that suit is reported as M.D. Sir Kameshwar Singh v. State of Bihar.(1) 
+
+S41 LR By that judgment the Patna High Court declared that the Act was ultra vires and wholly void and an injunction was issued restraining the State Government from enforcing the Act. 
+
+S42 FI Against that judgment, the State of Bihar preferred an appeal before this Court. 
+
+S43 A But the plaintiff in the case before us, however, on the basis of the judgment of the High Court demanded on June 9, 1950 that he should be put back in possession of the estate whose management had been taken over from him. 
+
+S44 FI On July 3, 1950 the then Collector by his letter informed the plaintiff that the Government had decided to relinquish charge of the estates A and tenures of the plaintiff and that the plaintiff should cooperate in taking over charge by July 15, 1950.
+
+S45 FI On July 6, 1950 the Government had already cancelled the notification s issued under section 3 (1) of the Act.
+
+S46 FI The charge of collection papers was handed by the middle of July, 1950. 
+
+S47 FI The abstracts and synopsis of accounts were given on August 7, 1950. 
+
+S48 FI About Rs. 1, 46,00" had been collected on behalf of the estate during the Government's management. 
+
+
+S49 FI After the estate was thus handed over to him, the plaintiff filed a suit on September 21, 1951 in the court of the Subordinate Judge, Purnea for damages of Rs. 2,00,000 for wrongful and illegal interference with the plaintiff's estates and tenures and for other consequential reliefs.
+
+S50 FI The plaint proceeded on the basis that the Act was unconstitutional as declared by the High Court earlier and that taking over of the possession and management of the estate etc. was illegal. 
+
+S51 FI The plaintiff pleaded that the Act having been declared void, the defendants were liable for not only the amount of loss actually suffered by the plaintiff but were also liable to recoup the amount spent by them during their management of the estate which was wrongful. 
+
+S52 FI It was alleged that the action of the defendants suffered from negligence, bad faith and malice. 
+
+
+S53 FI The plaint claimed that the defendants were liable jointly and severally as tort feasors for all such losses suffered by him. In paragraph 27 of the plaint the plaintiff set out broadly the grounds of his claim thus: (a) that due to gross negligence and wilful default the defendants contravened the provisions of section 3 (1) in notifying and taking possession of part only of plaintiff interests in Estates and Tenures and in omitting to notify other parts of his Estates and Tenures on the first occasion when the notification dated November 19, 1949 was issued the Government was unable to realise all the rents and other dues, (b) that due to wrong notification and omission to notify all parts of his Estates and Tenures and also on account of amalgamated rentals maintained by the plaintiff in respect of his estates and tenures, the plaintiff could not fully realise the balance share of unnotified estates and tenures, (c) that certain rents and decrees had been allowed to become barred by time and (d) that on account of non payment of Agricultural Income Tax and consequent imposition of penalty which was no doubt reduced to Rs.2,000 on appeal the Estate suffered a loss of Rs. 2,000.
+
+S54 FI He also pleaded that on account of the issue of wrong collection certificates by defendant No. 2 and his staff the plaintiff had suffered some loss which was yet to be ascertained.
+
+
+S55 FI In the written statement the defendants traversed all the material allegations in the plaint. 
+
+
+S56 FI They pleaded inter alia that the notification was issued in November, 1949 on the basis of the requisition of the Collector, P.K.J. Menon and that defendant No. 2 was appointed as Manager by that notification. 
+
+
+S57 FI The allegations of negligence, bad faith and malice were denied. 
+
+
+S58 FI The defendants pleaded that on the basis of information available in the records of the Government the notification was issued in November, 1949 and at the request of the plaintiff after verification second notification was issued on March 16, 1950, and that plaintiff requested for the issue of the second notification in order to escape the processes of law which had been taken out against him by his creditors and to shield his entire properties from the creditors. 
+
+S59 FI In fact the Government appointed the very collecting agents who were working under the plaintiff and after the management was handed back he reappointed them as his collecting agents. 
+
+
+S60 FI The plaintiff had accepted without protest the final accounts which had been prepared at the end of the period of management. Tauzis Nos. 7/8, 30 and 38 about which there was some dispute remained all along with the plaintiff and the collection papers pertaining to them were made over to defendant No. 2 only in the latter part of April, 1950 and if no collection could be made prior thereto in the said area till then the defendants could not be blamed.
+
+
+S61 FI The defendants pleaded that they had bona fide carried out their duties.
+
+
+S62 FI One fact which requires to be noted here is that the plaint did not have any reference to the effect of section 31 of the Act which is set out above, but it proceeded on the basis that the Act was unconstitutional. 
+
+
+S63 LR At the conclusion of the trial, the trial court held that the cost of management incurred by defendant No 2 over and above 12.1/2% of gross collection was excessive and the dependents should refund such excess amount. 
+
+
+S64 LR Secondly, it held that the mistake in not notifying all the shares held by the plaintiff in Tauzis Nos. 718 and 3 at the first instance resulted in non collection of the dues and the plaintiff thereby had suffered. 
+
+S65 LR The trial court held that the defendants being trespassers, the plaintiff owed no duty to them to make available to them the separated Jamabandi to facilitate collection of dues in the said Tauzis. 
+
+
+S66 LR The trial court, therefore, held that the defendants should reimburse the plaintiff the amount he would have been able to collect from those tauzis during the period of their management.
+
+S67 LR Similarly, the defendants were liable to make good the loss caused on account of arrears or decrees which had been allowed to become barred. 
+
+
+S68 LR The trial court directed that a commissioner should enquire into the above items.
+
+
+S69 LR Accordingly a preliminary decree was passed.
+
+
+S70 LR Against the said preliminary decree the defendants filed an appeal before the High Court. 
+
+
+S71 FI When the appeal came up before a Division bench of the High Court, the defendants contended that the decision of the High Court in which the Act had been declared as unconstitutional required to be reconsidered by the High Court in view of some later decisions of this Court. 
+
+
+S72 LR Accordingly the Division Bench referred the case to a larger Bench on July 14, 1962. 
+
+
+S73 FI The case was then heard by a Full Bench of five learned Judges of the Patna High Court. 
+
+
+S74 LR By its judgment dated February 15, 1963 the Full Bench overruled the earlier decision in MD. Sir Kameshwar Singh v. State of Bihar (supra) and declared that the Act was constitutional. 
+
+
+S75 FI The appeal was then referred back to the Division Bench for disposal in accordance with the opinion of the Full Bench.
+
+S76 LR The Division Bench which finally heard the appeal was of the view that though it was open to the State to notify only a fraction of an estate under section 3 (1) of the Act yet the defendants were not absolved from the duty of taking appropriate steps for the preparation of suitable collection papers in respect of the notified shares in Tauzis Nos. 718 and 300. 
+
+S77 LR It held that the defendants were liable to compensate the plaintiff for not preparing the collection papers in time.
+
+
+S78 LR The Division Bench further held that even though the plaintiff had been told to file suits for rents in respect of unnotified share of the estate, the defendants were negligent in the matter of issuing certificates for recovery, some Of which were later on struck off. 
+
+S79 LR The Division Bench also held that the material on the record did not indicate that necessary steps were taken by defendant No. 2 with regard to pending suits and execution proceedings and there was every 17 probability that loss had been suffered by the plaintiff on account of the inaction or failure to continue pending proceedings which amounted to wilful default and gross negligence. 
+
+S80 LR The Division Bench agreed with the trial court that the defendants were liable to reimburse the plaintiff to the extent of Rs. 2,000 levied as penalty for non-payment of Agricultural Income Tax. 
+
+S81 LR In so far as the cost of management of Rs. 43,507 which was in the order of 30 per cent of the gross collection was concerned while the trial court had allowed 12.112 per cent, the Division Bench allowed 25 per cent of the gross collection.
+
+S82 LR In other words the Division bench found that about Rs. 8,000 had been incurred as cost of management in excess of what was authorised. 
+
+S83 LR The Division Bench found that the plaintiff was entitled to it. 
+
+
+S84 LR The Division Bench held that section 31 of the Act did not give protection in respect of loss which was caused by wilful 540 default and gross negligence. 
+
+S85 LR The appeal of the defendants was accordingly dismissed. 
+
+
+S86 LR The cross objections of the plaintiff regarding certain matters disallowed by the trial court were also dismissed 
+
+
+S87 FI Aggrieved by the decree passed by the High Court, the State of Bihar applied for a certificate under Article 133 (1) (a) of the Constitution in S.C.A. No. 137/63 on the file of the High Court to file an appeal before this Court.
+
+
+S88 FI On the HIGH Court granting the certificate accordingly on December 10,1961, the State of Bihar has filed the above appeal. 
+
+S89 FI The plaintiff also applied for a similar certificate in S.C.A No. 1/64 on the file of the High Court to file an appeal against the decree in so far as it had gone against him. 
+
+S90 LR The High Court granted in his case also a similar certificate by She same order on December 10,1964 but the said certificate was later on cancelled by the High Court on July 6, 1965. 
+
+S91 R Thus the said proceedings came to an end. We are now concerned with only the appeal field by the State of Bihar.
+
+
+S92 I In this appeal, the constitutionality of the Act is not questioned before us.
+
+S93 FI On going through the record of the case, we find that the following facts are established. 
+
+S94 FI The notification issued on November 19,1949 under section 3 (1) of the Act referred to the name of the proprietor, the name of the estate, tauzi numbers of the estate and the share of the proprietor in the tauzis. Defendant No. 2, J.P. Mukherjee who was then the Additional Collector of Purnea was appointed as the Manager of the estate. On December 14, 1949, the plaintiff was informed by the Collector at Purnea that the management of the estate was to commence from December 30, 1949 and that he should produce before the Manager a list of villages included in the estate and also the Jamabandis, Karchas and Wasil Baukis upto date before December 27,1949 and also to make over a complete and clear list of the papers showing Jamabandis of each village, the arrears collected and the arrears outstanding before the commencement of the management under the Act. 
+
+S95 FI He was requested to cooperate in the matter and was also informed that if he did not do so the responsibility for any loss would be his. On December 27, 1949 the plaintiff wrote a letter to the Collectorate. 
+
+S96 FI In that he stated that the work of handing over papers properly of a big and complicated estate was not an easy task and it would certainly take a considerable number of days to complete it. 
+
+
+S97 FI He pointed out that the Government had committed an error in taking over the management of only 2A-11A-2C-2K 541 share out of Tauzi No 7/8 under the notification, because the collection papers had been maintained for 5-12. 1 /2 and odd share in respect said of the said tauzi. 
+
+
+S98 FI He pleaded that unless the whole of 5-12.1/2 share was notified, the work of separation of the notified share from the notified share could not be completed even within a period of six months. 
+
+S99 FI He, therefore, asked for the modification of the notification. 
+
+
+S100 FI Then we find that the plaintiff had met the Collector many times when the affairs of the estate were discussed. 
+
+S101 FI On March I 1,195 ', the Collector wrote the following letter to the plaintiff: "District Office, Purnea The 11th March. 
+
+S102 FI 1950 My dear Raja Saheb, 1. With reference to our discussions on the 7th March. 
+
+S103 FI 1950, the following action may be taken with regard to the notified and unnotified portions of your estate as agreed to between us.
+
+S104 FI 2. We will not be taking over the unnotified portion until the notification is made. 
+
+S105 FI As soon as a notification is made we will take over these portions. 
+
+S106 FI Meanwhile in order to see that no limitation occurs with regard to any rent payable to you, you are requested to prepare a copy of arrear list for the unnotified portions.
+
+S107 FI 3. With regard to Tauzi No. 7, sufficient number of Tahsildars and other staff required may be employed after selection on the 14th of March, 1950, at Kishanganj, by the Additional Collector and by your Circle Officer. 
+
+S108 FI A certain number of these, according to the proportion that is notified will be selected by the Additional Collector and paid by Government. 
+
+S109 FI You are requested to employ a certain number according to the proportion of the unnotified interest.
+
+S110 FI These staff together may be put on the job of preparing the arrear list.
+
+S111 FI 4. If notification is made before the Tamadi Day, we will arrange to issue certificates in respect of arrears due. 
+
+S112 FI If, however, notification for some reason or other is not made, then we will arrange to file joint suits for these arrears before the Tamds Day.
+
+S113 FI Yours sincerely,  sd/- (Illeg ) 13/3 Raja P.C. Lal Choudhuri, C.B.E. Nazarganj Palace, Purnea City. 
+
+
+S114 FI A supplementary notification was issued on March 16, 1950 as desired by the plaintiff. 
+
+
+S115 FI Then we find that there is some further discussion and correspondence between the plaintiff and the Manager. 
+
+S116 FI On April 7,1950, the Manager wrote to the plaintiff that he had been able to persuade the Government to advance Rs. 35,000 to meet the expenses of suits to be field for recovery of rents due to the estate. 
+
+S117 FI The plaintiff replied to that letter on the same date appreciating the step taken by the Government in advancing Rs. 35,000 as loan to the estate. 
+
+S118 FI On April 14,1950, the Manager sent a telegram to the plaintiff stating that since he had not cooperated in sending the previous records of cases in time in respect of Tauzi No. 7/8, it was not possible to file joint suits in respect of both the notified share and the unnotified share and that he was responsible for filing Tamadi suits in respect of the unnotified share in Tauzi No. 718. 
+
+S119 FI The defendant No. 2 in his evidence has stated that he could not make any collection in Tauzis Nos. 7/8 and 30 prior to the second notification because the collection papers were with the plaintiff and they were actually received by him on April 24,.1950. 
+
+S120 R In the lengthy cross-examination of defendant No. 2 we do not find any material which would discredit his evidence or which would show that he had either acted in excess of his powers or mala fide. 
+
+S121 R We also find that a large number of suits had been filed for recovery of the arrears due to the estate and merely because some of the suits were dismissed on merits or on the ground that some of the persons sued were dead or not traceable, it cannot be said that there was lack of bona fides on the part of the Manager.
+
+S122 FI By the middle of July, 1950, the management of the estate itself was relinquished. 
+
+S123 R From the foregoing, we find that it could not be said that there was want of good faith on the part of either the Government or defendant No. 2 who was the Manager. 
+
+S124 R If a certain share in a tauzi had not been notified on the first occasion it again cannot be said as having been done either mala fide or deliberately to harm the plaintiff.
+
+S125 I We shall now deal with the specific findings recorded by the Division Bench of the High Court.
+
+
+S126 LR The first ground on which the Division Bench has held that the A defendants were liable to pay damages is that defendant No. 2 had failed to get the collection papers prepared in respect of Tauzis Nos. 7/8 and 30 in time and thus caused loss to the plaintiff. 
+
+S127 LR it may be stated here that the Division Bench accepted that it was open to the Government to notify even a fraction of a tenure under section 3 (1) of the Act 
+
+S128 R and we think the Division Bench accepted it rightly in view of the definition of the expression 'tenure' in section 5 of the Act 
+
+S129 R It, however, omitted to notice that the plaintiff had failed to discharge his duty imposed on him under section 5 of the Act which provided that the Manager could by a written order require the proprietor or tenure-holder or his agents and employees on a date to be specified in such order to produce before him such documents or papers or registers relating to the estate or tenure concerned or to furnish him with such information as he may deem necessary for the management of the estate or tenure. 
+
+S130 FI In the present case defendant No. 2 did call upon the plaintiff to submit the documents from which it was possible to find out the ability of persons in respect of the notified share in Tauzis Nos. 718 and 30. 
+
+S131 FI The plaintiff pleaded that he had not maintained such separate set of' accounts and that it would take a long time to prepare it. 
+
+S132 FI He, how- ever, produced the registers by the end of April, 1950 only, after the remaining shares were also notified. 
+
+S133 R Hence if the collection papers were not prepared till then by defendant No 2 in time it was not on account of any negligence on the part of defendant No. 2.
+
+S134 FI On the other hand he recommended that the unnotified share also should be notified as desired by the plaintiff and such notification was also issued.  
+
+S135 FI By the time steps could be taken to prepare the collections papers the Act had been struck down by the High Court.
+
+S136 FI Then steps were taken to hand over the estate back to the plaintiff. 
+
+S137 R It is difficult to agree with the High Court that there was any wilful default or gross negligence on the part of defendant No. 2 in this regard.
+
+S138 R With regard to the charge that defendant No. 2 had filed a large number of certificate cases, some of which were later on struck off, the observation of the High Court itself supports that there was no negligence on the part of defendant No. 2 but on the other hand the plaintiff was responsible for it. 
+
+S139 LR The High Court has observed thus: "It appears that it was on the basis of some arrears list submitted by the plaintiff of defendant No. 2 and without subjecting it to proper scrutiny, that a large number of certificate cases were hurriedly filed by the defendants at the time of the Tamadi in the middle of April 1950, and, it was, therefore, not strange that quite a large number of them had subsequently to be struck off, with the result that a considerable portion of the arrears of rents and profits of the plaintiff's estate remained unrealised and became time barred. 
+
+S140 LR It is manifest that the loss caused to the plaintiff's estate on this account was due to the inaction of defendant No. 2 amounting to wilful default and gross negligence on his part. 
+
+S141 LR The responsibility for such loss must undoubtedly lie with the defendants." 
+
+S142 LR (underlining by us) 
+
+
+S143 R The High Court omitted to notice that the certificate cases had been filed though hurriedly on the basis of the arrears list submitted by the plaintiff, himself. 
+
+S144 R In the circumstances it is difficult to charge defendant No. 2 with wilful default or gross negligence on a complaint by the plaintiff. 
+
+S145 R Further the High Court did not refer in the course of its judgment at least to a few such cases which showed that there was gross negligence.
+
+S146 R The High Court overlooked that nearly 7,000 certificate cases had to he filed in a short period. 
+
+S147 R On the material before us we are not satisfied that the above ground has been made out against the defendants.
+
+S148 I The third ground that defendant No. 2 had not diligently attended to any pending proceeding is also not made out since no specific case is dealt with by the High Court which prima facie established that charge.
+
+S149 FI With regard to the penalty of Rs. 2,000 imposed for non-payment of the Agricultural Income Tax it is seen that a penalty of Rs. 5,000 was first imposed as the plaintiff was unable to pay the Agricultural Income Tax in time because he could not collect arrears in time. 
+
+S150 FI In fact on the intervention of the Collector it was reduced to Rs.2,000. 
+
+S151 FI Even then it was too remote to the management of the notified estate by defendant No. 2. 
+
+S152 LR The trial court had held that it was due to the issue of a wrong notification at the first instance. 
+
+S153 R But when once it is conceded that the first notification was not an unauthorised one the defendants could not be held liable for reimbursing the penalty of Rs 2,000 paid by the plaintiff.
+
+S154 R In so far as the cost of management is concerned, the dispute is confined to about Rs. 8000. 
+
+S155 FI It is seen that the estate had to be returned prematurely to the plaintiff Owing to the judgment of the High Court declaring the Act as unconstitutional within a period of about seven months. 
+
+S156 FI But since defendant No. 2 had offered to refund any expenditure incurred in excess of 25% of the gross collections to the plaintiff, defendant No.
+
+
+S157 FI I has to pay back Rs. 8,000 to the plaintiff.
+
+
+S158 R It is seen that in present case while the trial court proceeded on the basis that the Act was unconstitutional that the defendants were trespassers on the plaintiff's estate and that the plaintiff owed no duty to them, the Division Bench of the High Court which finally disposed of the appeal failed to give due attention to section 31 of the Act which had been held to be constitutional earlier.
+
+S159 R Section 31 of the Act provided that no suit or other legal proceeding would lie in any court against the State Government or against any servant of the State Government or against any person acting under the orders of a servant of the State Government for or on account of or in respect of anything done or purporting to he done in good faith under the Act or in respect of any alleged neglect or omission to perform any duty devolving on the State Government or any of the officers subordinate to it or acting under the Act or in respect of the exercise of or on failure to exercise any power conferred by the Act on the State Government or any officer subordinate to it and acting under the Act, except for the loss or the misapplication occasioned by the wilful default or gross negligence of any officer of the State Government. 
+
+S160 SS Under section 4 (22) of the Bihar and Orissa General Clauses Act, 1917, a thing shall be deemed to be done in 'good faith' where it is in fact done honestly, whether it is done negligently or not. 
+
+S161 R There is no ground to hold that either the State Government or any of the officers acting under it in performance of their duties under the Act had not acted honestly either in issuing the notification under section 3 (l) of the Act on November 19,1949 by which only parts of Tauzis No. 7/8 and 30 had been notified or in not preparing separate collection statements before April, 1950. 
+
+S162 R the mistake appears to have occurred because the plaintiff himself had acquired the said Tauzis in installments. 
+
+S163 R Further as soon as the error was pointed out steps were taken by defendant No. 2 to get the unnotified share also notified and the Government issued a notification accordingly within about four months. 
+
+S164 R It is because the plaintiff did not hand over even the consolidated collection statements by April, l950, the separate collection statements could not be got prepared by defendant No. 2 by April, 1950 and even according to the plaintiff himself it would have taken six months to prepare separate collection statements on the basis of the consolidated statements. 
+
+S165 R It is not shown that either the State Government or any of its officers knew before hand that the plaintiff 546 had maintained a consolidated statement of accounts and that deliberately in order to cause loss to the plaintiff the first notification had been issued in respect of a portion of Tauzis Nos. 7/8 and 30. 
+
+S166 R These facts constituted a good defence under Section 31 of the Act against any claim based on any alleged neglect or omission since there was no proof of any wilful default or gross negligence on the part of the defendants. 
+
+S167 R There was also no proof of deliberate abuse of statutory power nor of usurpation of a power which the authorities knew that they did not possess. 
+
+S168 R In the circumstances the claim for damages on all counts should fail except with regard to the claim for Rs. 8,000 which had been incurred as cost of management in excess of what was authorised by law.
+
+S169 R For the foregoing reasons, we set aside the judgment and decree by the trial court and the judgment and decree dated August 17, 1963 passed by the Division Bench of the High Court and pass a decree against defendant No. 1, the State of Bihar directing it to pay the plaintiff's legal representatives a sum of Rs. 8,000/-with interest thereon at 6 per cent per annum from the date of suit i.e. September 21, 1951 till the date of payment.
+
+S170 R The rest of the claim in the suit is dismissed. 
+
+S171 R Parties shall bear their own costs in all the courts. 
+
+S172 R The appeal is accordingly allowed in part.
+
+S173 R S.R. Appeal allowed.
+
+
+</proposition>
+
+

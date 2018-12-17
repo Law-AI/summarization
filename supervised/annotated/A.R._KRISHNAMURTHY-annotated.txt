@@ -1,0 +1,154 @@
+<caseDesc>
+A.R. KRISHNAMURTHY & ANR V. C.I.T. MADRAS [1989] INSC 50; AIR 1989 SC 1055; 1989 (1) SCR 596; 1989 (1) SCC 754; 1989 (1) JT 243; 1989 (1) SCALE 345 (10 February 1989) 
+</caseDesc>
+
+<proposition>
+
+S1 I The question in this appeal is whether the grant of a mining lease for a period of ten years by the assessee can give rise to a capital gain taxable under section 45 of Income-tax Act, 1961.
+
+S2 FI 599 The assessee, a body of individuals, purchased two pieces of land in the year 1966 measuring 14.55 acres at a price of Rs.27,260. 
+
+S3 FI By an instrument of lease-cum-licence dated 10th September, 1970 they granted a mining lease in favour of M/s. Sri Krishna Tiles and Potteries (Madras) Private Limited (hereinafter called the 'Company'), an allied concern of the assessee. 
+
+
+S4 FI The lease was for a period of 10 years and the lessee had to pay a premium or salami of Rs.5 lakhs in addition to the payment of royalty of Rs. 12 per hundred cubic ft. of clay extracted subject to a minimum of Rs.60,000 per year.
+
+S5 FI The Income-tax Officer construed the lease deed as transferring a lease-hold interest in the land in favour of the company and came to the conclusion that the transfer was assessable to capital gains tax. 
+
+S6 FI For the purpose of comput- ing the extent of tax the Income-tax Officer assessed the market value of the entire land at Rs.8 lakhs. 
+
+S7 FI Since the lease-hold interest was transferred for a sum of Rs.5 lakhs, he valued the lease-hold interest at 5/8th of the sale price of the entire land. 
+
+S8 FI On that basis the Income-tax Officer computed the cost of acquisition of the lease-hold interest at Rs. 17,040, being 5/8th of Rs.271,260. 
+
+S9 FI Thereafter deduct- ing Rs. 17,040 from the sale consideration of Rs.5 lakhs, he treated the sum of Rs.4,82,960 as long-term capital gains.
+
+
+S10 FI The assessee preferred an appeal to the Appellate As- sistant Commissioner. 
+
+
+S11 LR The Appellate Commissioner held that the value of the right to excavate the land in terms of money is included in the purchase price paid by the assessee for the land. 
+
+S12 LR He rejected the argument of the assessee that the cost of acquisition of the said assets could not be determined. 
+
+S13 LR He then proceeded to consider the cost of acqui- sition of such right and differing with the Income Tax Officer held that on the facts of the case the cost for the purpose of ascertaining the capital gains would be the total price of the land paid by the assessee, that is, Rs.27,260.
+
+S14 LR On all other points he upheld the order of the Income-tax Officer.
+
+S15 FI The assessee preferred an appeal to the Tribunal. 
+
+
+S16 LR The Tribunal observed that the entire ownership of the property means the ownership of a bundle of rights and a limited interest which can be severed and disposed off for a speci- fied period in the form of lease or mortgage or the like is part of that bundle. 
+
+S17 LR According to the Tribunal the purchase price paid by the assessee for the land includes therein a component of purchase price attributable to various kinds of interests embedded in the said land.
+
+S18 LR The Tribunal confirmed the order of the Appellate Commissioner and dismissed the appeal.
+
+S19 LR 600 Arising from the said decision of the Tribunal. 
+
+S20 FI The following two questions were referred to the High Court for determination:
+
+
+S21 FI (i) Whether, on the facts and in the cir- cumstances of this case, the instrument of lease dated September 10, 1970 effected the transfer of a capital asset within the meaning of section 45 of the Income-tax Act, 1961 and, accordingly, liable to capital gains tax?
+
+S22 FI (ii)Whether, on the facts and in the circumstances of the case the Tribunal is right in law in holding that the cost of lease hold right is capable of valuation and, as such, capital gains can be computed?
+
+S23 LR The High Court opined that the right conferred on the lessee under the lease deed was also a capital asset in the hands of the assessee-lessor. 
+
+S24 LR By giving a liberal meaning to the word "transfer" in section 2(47) of the Act the High Court held that there was a transfer of capital asset for a consideration of Rs. 5 lakhs under the instrument dated 10th September, 1970. 
+
+S25 LR It was further held that the rights of owner of a land include a fight to grant the lease to ex- ploit the land. 
+
+S26 LR The High Court answered the two questions in the affirmative and against the assessee. 
+
+S27 LR The High Court granted a certificate under section 261 of the Act to appeal to this Court.
+
+S28 R The relevant provisions of sub-section 14 of section 2 which defines "capital asset" and section 45(1) of the said Act which provides for the levy of tax on capital gains is as under:
+
+S29 SS "2(14) "capital asset" means property of any kind held by an assessee, whether or not connected with his business or profession, but does not include--.
+
+S30 SS 45(1) Any profits or gains arising from the transfer of a capital asset effected in the previous year shall, save as otherwise provid- ed in section be chargeable to income-tax under the head Capital gains, and shall be deemed to be the income of the previous year in which the transfer took place.
+
+S31 A Mr. Harish Salve, learned counsel appearing for the appellant, without disputing that the grant of a lease would constitute a transfer of an ,asset, has raised the following two contentions:
+
+S32 A 601 (i) That conceptually there is no "cost of acquisition" which is attributable to the right of limited enjoyment transferred by the grant of the lease. 
+
+S33 A There is no nexus between the "cost of acquisition" of the free-hold land and the right granted under the lease.
+
+S34 A For the same reason it is contended that there is no question of apportionment of such "cost of acquisition".
+
+
+S35 A (ii) That since the cost of acquisition of the right granted under the lease cannot be determined the computation provisions under the Act cannot apply at all and as such sec- tion 45 of the Act is not attracted.
+
+S36 A Reliance for this contention is placed on the judgment of this Court in C.I.T.v.B.C. Srinivas Shetty, 128 ITR 294.
+
+S37 SS As regards the first contention, section 2(14) of the Act defines "capital asset" as property of any kind held by an assessee. 
+
+S38 R What is parted with under the terms of the lease-deed is the right to exploit the land by extracting clay which fight directly flows from the ownership of the land. 
+
+S39 R The said right evaluated in terms of money forms part of the cost of acquiring the land. 
+
+S40 SP In Traders and Mining Ltd. v. C.I.T., 27 ITR 341, a Division Bench of the Patna High Court, interpreting the expression "transfer of a capital asset" held as under: “We think that the expression "transfer" in the section includes not only a permanent transfer but also a temporary transfer of title to the property in question and lease of mines for any period would fall within the ambit of section 12B of the Act. 
+
+S41 SP It was also contended by Mr. Dutt that a transaction of a lease was not tantamount to a transfer of a title but that a mere contractual right was created. 
+
+S42 SP We do not think that this argument is correct. 
+
+S43 SP A lease of land is transfer of inter- est in the land and creates a right in rem: and there is a transfer of title in favour of the lessee though the lessor has right of reversion after the period of the lease termi- nates.”
+
+S44 SP This decision has been referred to with approval by this Court in R.K. Palshikar (HUF) v. Commissioner of Income. Tax, M.P. Nagpur, [1988] 3 SCC 549. 
+
+S45 R If transfer of capital asset in section 45 of the Act includes grant of Mining Lease for any period .then obviously the "cost of acquisi- tion" of the land would include the "cost of acquisition" of the Mining right under the lease. 
+
+S46 R Undisputedly the grant of alease being a transfer of an asset there is no escape from the conclusion that there is a live nexus between the "cost of acquisition" of the land and the rights granted under the lease. 
+
+S47 R The amount of Rs.27,260 paid by the Assessee was not only the cost of acquiring the land but also of acquiring bundle of fights in the said land including the right to grant lease. 
+
+S48 R There is, thus no force in the contention of the learned counsel that conceptually there is no "cost of acquisition" which is attributable to the fight of limited enjoyment transferred by the grant of the lease.  
+
+S49 R So far as the apportionment of the cost of acquisition is concerned it is a question of fact to be determined by the Income-Tax Officer in each case on the basis of evidence.
+
+S50 R The determination of the cost of the right to excavate clay in the land in terms of money may be difficult but is none-the-less of a money value and the best valuation possible must be made.
+
+S51 SP Viscount Simon in Gold Coast Selection Trust Ltd. v. Inspector of Taxes, 17 ITR 19 (supp) observed "valuation is not an exact science. Mathe- matical certainty is not demanded, nor indeed is it possi- ble. 
+
+S52 FI The Income-tax Officer in this case worked out the cost of lease hold interest by adopting the 5/8th ratio, though the Appellate Commissioner gave the benefit to the Assessee of the Full Price of the land paid by him. 
+
+S53 SP In Traders and Mines Ltd. v. Commissioner of Income-tax, (supra) the Income-tax Officer had also determined the cost of the lease hold fights on proportionate basis. 
+
+
+S54 R Once the cost of the lease-hold fights is determined then there is no difficulty in making apportionment. 
+
+S55 R We, therefore, do not find any force in the first contention of Mr. Salve and reject the same.
+
+S56 R In view of our finding on the first contention the second contention does not survive. 
+
+S57 R The value of lease hold fights in the cost of acquisition of land being determinable the computation provisions under the Act are applicable and section 45 would be attracted. 
+
+S58 SP In Shetty's case the question was whether the transfer of the goodwill of a newly com- menced business can give rise to a capital gain taxable under section 45 of the Act. 
+
+S59 SP This Court answered the ques- tion in the negative. 
+
+S60 SP Referring to the charging section and the computation provisions under the Act this Court held that none of those provisions suggest the inclusion of an asset under the Head "Capital Gain," in the acquisition of which no cost at all can be conceived. 
+
+S61 SP Good will generated in an individual's business was held to be an asset in which no cost element can be identified or envisaged. 
+
+S62 SP It was also held that the date of acquisition of the asset is a material factor in applying the computation provisions pertaining to capital gains and in the case of self-generated good will it is not possible to determine the same. 
+
+S63 R The third reason for holding that the good will generated in a newly commenced business cannot be described as an 'asset' within the terms of section 45 of the 603 Act was that it is impossible to determine its cost of acquisition. 
+
+S64 R None of the three reasons given by this Court in Shetty's case are applicable in the present case. 
+
+S65 R We have held that the cost of acquisition of lease hold rights can be determined. 
+
+S66 R The date of acquisition of the right to grant lease has to be the same as the date of acquiring the free hold rights. 
+
+S67 R The ratio of Shetty's case is thus not attract- ed to the question involved in the present case. 
+
+S68 R We, there- fore, do not find any force in the second contention also.
+
+S69 R Accordingly the appeal is dismissed with costs.
+
+S70 R N.V.K. Appeal dis- missed.
+
+</proposition>

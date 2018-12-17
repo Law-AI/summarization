@@ -1,0 +1,72 @@
+<caseDesc>
+BIHARI CHOWDHARY & ANR V. STATE OF BIHAR & ORS [1984] INSC 66; AIR 1984 SC 1043; 1984 (3) SCR 309; 1984 (2) SCC 627; 1984 (1) SCALE 536 (26 March 1984)  
+</caseDesc>
+
+
+<proposition>
+
+S1 I The short question that arises for consideration in this appeal by special leave concerns the true scope and application of Section 80 of the Civil Procedure Code.
+
+S2 FI The appellants herein are the plaintiffs in a suit instituted in the Munsiff's Court, Bihar Sharif, seeking the reliefs of declaration of title and delivery of possession with mesne profits in respect of the properties described in the plaint. 
+
+S3 FI The State of Bihar-the 1st respondent herein is the main defendant in the suit. 
+
+S4 FI Prior to the institution of the suit, the plaintiffs had issued a notice to the 1st 311 respondent-State-under section 80 C.P.C. on 18.2.1969 and Exhibit 2 is a copy of the said notice.
+
+S5 FI However, without waiting for the statutory period of two months, the plaintiffs instituted the suit on 2.4.1969.
+
+S6 FI In the written statement filed on behalf of the State of Bihar, it was contended, inter alia, that the suit was not maintainable for want of proper notice under Section 80 C.P.C. 
+
+S7 LR The first appellate court which the matter was carried in appeal by the plaintiffs dismissed the appeal on the ground that the plaintiffs' suit was not maintainable inasmuch as due notice under Section 80 C.P.C. had not been given. 
+
+S8 LR A second appeal preferred by the appellants to the High Court at Patna did not meet with any success and it was dismissed in limine. 
+
+S9 FI Hence this appeal by the plaintiffs.
+
+S10 R We are concerned in this case with Section 80 C.P.C. as it stood prior to its amendment, by Act 104 of 1976 (Even under the amended provision, the position remains unaltered insofar as a suit of this nature is concerned). 
+
+S11 R We shall extract the Section as it  stood at the material time: 
+
+S12 SS "80. No suit shall be instituted against the Government (including the Government of the State of Jammu and Kashmir) or against a public officer in respect of any act purporting to be done by such public officer in his official capacity, until the expiration of two months next after notice in writing has been delivered to, or left at the office of- (a) in the case of a suit against the Central Government, except where it relates to a railway, a Secretary to that Government; (b) in the case of a suit against the Central Government where it relates to a railway, the General Manager of that railway; (c) in the case of a suit against the Government of the State of Jammu and Kashmir, the Secretary to that Government or any other officer authorised by that Government in this behalf; (d) in the case of a suit against any other Government, a Secretary to that Government or the Collector of the district;* * * * * and, in the case of a public officer, delivered to him or left at his office, stating the cause of action, the name, description and place of residence of the plaintiff and relief which he claims; and plaint shall contain a statement that such notice has been so delivered or left."
+
+S13 R The effect of the Section is clearly to impose a bar against the institution of a suit against the Government or a public officer in respect of any act purported to be done by him in his official capacity until the expiration of two months after notice in writing has been delivered to or left at the office of the Secretary to Government or Collector of the concerned district and in the case of a public officer delivered to him or left at his office, stating the particulars enumerated in the last part of sub-section (1) of the Section. 
+
+S14 R When we examine the scheme of the Section it becomes obvious that the Section has been enacted as a measure of public policy with the object of ensuring that before a suit is instituted against the Government or a public officer, the Government or the officer concerned is afforded an opportunity to scrutinise the claim in respect of which the suit is proposed to be filed and if it be found to be a just claim, to take immediate action and thereby avoid unnecessary litigation and save public time and money by settling the claim without driving the person, who has issued the notice, to institute the suit involving considerable expenditure and delay.
+
+S15 R The Government, unlike private parties, is expected to consider the matter covered by the notice in a most objective manner, after obtaining such legal advice as they may think fit, and take a decision in public interest within the period of two months allowed by the Section as to whether the claim is just and reasonable and the contemplated suit should, therefore, be avoided by speedy negotiations and settlement or whether the claim should be resisted by fighting out the suit if and when it is instituted. 
+
+S16 R There is clearly a public purpose underlying the mandatory provision contained in the Section insisting on the issuance of a notice setting out the particulars of the proposed suit and giving two months time to Government or a public officer before a suit can be instituted against them. 
+
+S17 R The object of the Section is the advancement of justice and the securing of public good by avoidance of unnecessary litigation.
+
+S18 R When the language used in the Statute is clear and unambiguous, it is the plain duty of the Court to give effect to it and considerations of hardship will not be a legitimate ground for not faithfully implementing the mandate of the legislature.
+
+S19 SP The Judicial Committee of the Privy Council had occasion to consider the scope and effect of Section 80 C.P.C. in an almost similar situation in Bhagchand Dagadusa and ors. v. Secretary of State for India in Council & Ors.(1) 
+
+S20 SP In that case, though a notice had been issued by the plaintiffs under Section 80 C.P.C. on 26th June 1922, the suit was instituted before the expiry of the period of two months from the said date.
+
+S21 FE It was contended before the Privy Council, relying on some early decisions of before the Privy Council, relying on some early decisions of High Court of Bombay, that because one of the reliefs claimed in the suit was the grant of a perpetual injunction and the claim for the said relief would have become infructuous if the plaintiffs were to wait for the statutory period of two months prescribed in Section 80 C.P.C. before they filed the suit, the rigour of the Section should be relaxed by implication of a suitable exception or a qualification in respect of a suit for emergent relief, such as one for injunction. 
+
+S22 SP That contention did not find favour with the Privy Council and it was held that Section 80 is express, explicit and mandatory and it admits no implications or exceptions. 
+
+S23 SP The Judicial Committee observed: "To argue as appellants did, that the plaintiffs had a right urgently calling for a remedy, while s. 80 is mere procedure, is fallacious, for s. 80 imposes a statutory and unqualified obligation upon the Court."
+
+S24 SP This decision was subsequently followed by the Judicial Committee in Vellayan v. Madras Proince.(7) 
+
+S25 SP The dictum laid down by the Judicial Committee in Bhagchand Dagadusa v.Secretary of State for India.(3) was cited with approval and followed by a Bench of five Judges of this Court in Sawai Singhai Nirmal Chand v. Union of India.(1) 
+
+S26 R It must now be regarded as settled law that a suit against the Government or a public officer, to which the requirement of a prior notice under Section 80 C.P.C. is attracted, can not be validly instituted until the expiration of the period of two months next after the notice in writing has been delivered to the authorities concerned in the manner prescribed for in the Section and if filed before the expiry of the said period, the suit has to be dismissed as not maintainable.
+
+S27 A On behalf of the appellants, strong reliance was placed on the decision of a learned Single Judge of the High Court of Kerala in Nani Amma Nannini Amma v. State of Kerala.(2) 
+
+S28 SP Therein the learned Judge has expressed the view that Sec.80 is not a provision of public policy and there is nothing in the Section expressly affecting the jurisdiction of the Court to try a suit instituted before the expiry of the period prescribed therein.
+
+S29 R The reasons stated by the learned Judge in justification of his taking the said view despite the clear pronouncement of the Judicial Committee of the Privy Council in Bhagchand's case do not appeal to us as correct or sound. In the light of the conclusion expressed by us in the foregoing paragraphs about the true scope and effect of Section 80 C.P.C., the aforecited decision of the learned Single Judge of the Kerala High Court cannot be accepted as laying down good law.
+
+S30 R In the result, we confirm the judgment and decree of the High Court and dismiss this appeal. 
+
+S31 R The parties will bear the respective costs in this appeal.
+
+
+</proposition>
+
