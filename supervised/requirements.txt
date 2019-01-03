@@ -1,0 +1,9 @@
+rouge==0.3.1
+nltk==3.4
+sklearn_crfsuite==0.3.6
+prettytable==0.7.2
+numpy==1.15.4
+html2text==2018.1.9
+scipy==1.1.0
+python_crfsuite==0.9.6
+scikit_learn==0.20.2

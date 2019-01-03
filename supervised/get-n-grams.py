@@ -16,7 +16,7 @@ import sys
 
 CATEGORIES_FOLDER = 'categories'
 MIN_THRESHOLD = 5 # Number of times an ngram should atleast appear
-					# to be considered valid 
+					# for it to show up in the results 
 
 stop_words = set(stopwords.words('english'))
 # stop_words.update(['.', ',', '"', "'", '?', '!', ':', ';', '(', ')', '[', ']', '{', '}']) # remove it if you need punctuation 
