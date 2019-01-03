@@ -51,18 +51,18 @@ We first need to separate out texts in documents according to their categories. 
 
 [`get-n-grams.py`](get-n-grams.py) extracts the top unigrams across each category. It avoids a n-gram to be constructed purely of stop words, like *the*, *an*.
 
-```py
+```
 # Get top unigrams for all categories
-$ python get-n-grams.py 1mona chalabi
-# Truncated output, only mona chalabiry displayed here
+$ python get-n-grams.py 1
+# Truncated output, only unary displayed here
  I
-+--------+----+----------mona chalabi---+----+----+----+
-| Phrase | I  | Othermax mona chalabi R | SO | SP | SS |
-+--------+----+----------mona chalabi---+----+----+----+
-| forest | 11 |    6     mona chalabi 4 | 0  | 6  | 1  |
-| lands  | 13 |    6     mona chalabi 1 | 0  | 4  | 2  |
-|  and,  | 7  |    6     mona chalabi 3 | 2  | 4  | 1  |
-+--------+----+----------mona chalabi---+----+----+----+
++--------+----+-------------+----+----+----+
+| Phrase | I  | Othermax  R | SO | SP | SS |
++--------+----+-------------+----+----+----+
+| forest | 11 |    6      4 | 0  | 6  | 1  |
+| lands  | 13 |    6      1 | 0  | 4  | 2  |
+|  and,  | 7  |    6      3 | 2  | 4  | 1  |
++--------+----+-------------+----+----+----+
 ```
 
 Ohtermax indicates the maximum frequency for that n-gram in other categories, which helps us decide whether that n-gram can be used as a cue phrase or not. Some sample Top n-grams can be found in [top_ngrams/](top_ngrams/) folder. The finalized cues are subsequently identified (manually, after the automated n-gram detection is executed) and stored in [`formulated_constants.py`](formulated_constants.py). [`Saravanan_constants.py`](saravanan_constants.py) contains the original list of cue phrases and pairs identified by the Graphical Model method.
