@@ -31,7 +31,7 @@ python run_summarization.py --mode=train --data_path=finished_files/chunked/trai
 
 This will create a subdirectory of your specified `log_root` called `myexperiment` where all checkpoints and other data will be saved. Then the model will start training using the `train_*.bin` files as training data.
 
-**Warning**: Using default settings as in the above command, both initializing the model and running training iterations will probably be quite slow. To make things faster, try setting the following flags (especially `max_enc_steps` and `max_dec_steps`) to something smaller than the defaults specified in `run_summarization.py`: `hidden_dim`, `emb_dim`, `batch_size`, `max_enc_steps`, `max_dec_steps`, `vocab_size`. 
+**Warning**: Using default settings as in the above command, both initializing the model and running training iterations will probably be quite slow. To make things faster, try setting the following flags (especially `max_enc_steps` and `max_dec_steps`) to something smaller than the defaults specified in `run_summarization.py`: `hidden_dim`, `emb_dim`, `batch_size`, `max_enc_steps`, `max_dec_steps`, `vocab_size`.
 
 **Increasing sequence length during training**: Note that to obtain the results described in the paper, we increase the values of `max_enc_steps` and `max_dec_steps` in stages throughout training (mostly so we can perform quicker iterations during early stages of training). If you wish to do the same, start with small values of `max_enc_steps` and `max_dec_steps`, then interrupt and restart the job with larger values when you want to increase them.
 
@@ -45,6 +45,8 @@ python run_summarization.py --mode=eval --data_path=/path/to/chunked/val_* --voc
 Note: you want to run the above command using the same settings you entered for your training job.
 
 **Restoring snapshots**: The eval job saves a snapshot of the model that scored the lowest loss on the validation data so far. You may want to restore one of these "best models", e.g. if your training job has overfit, or if the training checkpoint has become corrupted by NaN values. To do this, run your train command plus the `--restore_best_model=1` flag. This will copy the best model in the eval directory to the train directory. Then run the usual train command again.
+
+**Trained Model**: You can download the trained model [here](https://drive.google.com/file/d/1IpMapGwxtXuziVRI-vIrrBkbTbVpI3aZ/view?usp=sharing). The model has finished 80721 iterations and can be run by putting the files in the train folder of the corresponding experiment.
 
 ### Run beam search decoding
 To run beam search decoding:
