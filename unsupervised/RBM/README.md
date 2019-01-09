@@ -12,10 +12,4 @@ Description: Used two layers of Restricted Boltzmann Machine as a Deep Belief Ne
 
 ## Getting Started
  1. Clone this repository <br>
-    `git clone https://github.com/vagisha-nidhi/TextSummarizer.git`<br>
- 2. Place your sample text files in `./articles` folder. Some sample articles are already kept for convenience.<br>
- 3. Run `python Summarizer.py` to summarize the articles.<br>
- 4. You will get the summarized outputs in `./outputs` folder.
- 
-## Example 
- Sample input and output examples have been given in [this](https://github.com/vagisha-nidhi/TextSummarizer/blob/master/input-output.pdf) along with enhanced feature matrix for the articles.
+ 2. Run `python Summarizer.py` to summarize the articles. The first argument will be the directory containing the input files and second argument will be the directory where outout will be stored<br>
