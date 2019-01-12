@@ -71,7 +71,7 @@ def get_summary(file):
 	for category in order:
 		summary_txt += ''.join([key for key in summary if summary[key]==category]) + '\n'
 
-	print(summary_txt)
+	# print(summary_txt)
 	return summary_txt 
 
 
