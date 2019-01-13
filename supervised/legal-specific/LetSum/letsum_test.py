@@ -21,8 +21,10 @@ import json
 import sys
 from nltk.corpus import stopwords
 from math import log 
+import html2text
+import nltk
 
-import crf_test
+sys.path.append('..')
 import formulated_constants
 from formulated_constants import include_toggled_phrases, include_toggled_pairs
 
@@ -57,6 +59,38 @@ cue_pairs = formulated_constants.categorical_pairs
 include_toggled_phrases(cue_phrases)
 include_toggled_pairs(cue_pairs)
 
+def parse_html(file):
+	'''
+		Return usable case content, as list
+	'''
+	with open(file, 'r') as f:
+		txt = f.read()
+
+	txt=(txt.replace('</?(?!(?:p class=indent)\b)[a-z](?:[^>\"\']|\"[^\"]*\"|\'[^\']*\')*>',''))
+	t = html2text.html2text(txt)
+
+	tokenized = nltk.tokenize.sent_tokenize(t)
+	start = 0 
+
+	# The Judgment was delivered by / 'for educational use only'
+	while start < len(tokenized) and 'the judgment was delivered by' not in tokenized[start].lower() :
+		start = start + 1
+
+	if start == len(tokenized):
+		start = 0
+		while 'for educational use only' not in tokenized[start].lower():
+			start = start + 1
+
+	text, indices = [], []
+	for i in range(start+1,len(tokenized)):
+		if 'thomson reuters south asia private limited' in tokenized[i].lower():
+			break
+		text.append(tokenized[i].replace('\n',' '))
+		indices.append(i-start)
+
+	return text, indices
+
+
 def LetSum(file):
 	'''
 		receives a html file, produce categories for each of them and returns a summary
@@ -65,7 +99,7 @@ def LetSum(file):
 	scores = OrderedDict()
 	lines = {}
 
-	t, _ = crf_test.parse_html(file)
+	t, _ = parse_html(file)
 	
 	# break sentences to phrases
 	# for line in t:

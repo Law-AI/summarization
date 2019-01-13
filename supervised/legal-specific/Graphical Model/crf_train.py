@@ -7,7 +7,8 @@ import sklearn_crfsuite
 from sklearn_crfsuite import metrics
 import sys
 import json
-from formulated_constants import include_toggled_phrases, include_toggled_pairs
+# from ..formulated_constants import include_toggled_phrases, include_toggled_pairs
+sys.path.append('..')
 import formulated_constants
 import operator
 import pycrfsuite
@@ -17,14 +18,14 @@ import re
 import os
 # http://www.albertauyeung.com/post/python-sequence-labelling-with-crf/
 
-TRAIN_TXT_FOLDER = 'annotated'
-TRAIN_JSON_FOLDER = 'annotated_json'
+TRAIN_TXT_FOLDER = '../annotated'
+TRAIN_JSON_FOLDER = '../annotated_json'
 
 cue_phrases = formulated_constants.categorical_phrases
 cue_pairs = formulated_constants.categorical_pairs
 # check to include variations in case	
-include_toggled_phrases(cue_phrases)
-include_toggled_pairs(cue_pairs)
+formulated_constants.include_toggled_phrases(cue_phrases)
+formulated_constants.include_toggled_pairs(cue_pairs)
 
 category_abbr = {
 	"Argument": "A", "Fact": "F", "Issue": "I",
