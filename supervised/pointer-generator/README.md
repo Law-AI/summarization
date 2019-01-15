@@ -47,12 +47,17 @@ Note: you want to run the above command using the same settings you entered for 
 **Restoring snapshots**: The eval job saves a snapshot of the model that scored the lowest loss on the validation data so far. You may want to restore one of these "best models", e.g. if your training job has overfit, or if the training checkpoint has become corrupted by NaN values. To do this, run your train command plus the `--restore_best_model=1` flag. This will copy the best model in the eval directory to the train directory. Then run the usual train command again.
 
 **Trained Model**: You can download the trained model [here](https://drive.google.com/file/d/1IpMapGwxtXuziVRI-vIrrBkbTbVpI3aZ/view?usp=sharing). The model has finished 80721 iterations and can be run by putting the files in the train folder of the corresponding experiment.
+To use the trained model for decoding use this command:
+```
+python run_summarization.py --mode=decode --data_path=/path/to/chunked/test_* --vocab_path=/path/to/vocab --log_root=/path/to/log/directory --exp_name=myexperiment
+```
+In the log directory create a folder with the same name as the experiment and in the experiment folder create a folder train and save the checkpoint downloaded there. 
 
 ### Run beam search decoding
 To run beam search decoding:
 
 ```
-python run_summarization.py --mode=decode --data_path=/path/to/chunked/val_* --vocab_path=/path/to/vocab --log_root=/path/to/a/log/directory --exp_name=myexperiment
+python run_summarization.py --mode=decode --data_path=/path/to/chunked/test_* --vocab_path=/path/to/vocab --log_root=/path/to/a/log/directory --exp_name=myexperiment
 ```
 
 Note: you want to run the above command using the same settings you entered for your training job (plus any decode mode specific flags like `beam_size`).
