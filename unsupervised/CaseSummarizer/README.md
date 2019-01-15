@@ -15,7 +15,7 @@ python preprocess.py    path/to/input/folder/   path/to/output/folder
 
 #### Run : 
 ```
-python suummary.py    path/to/input/folder/    path/to/output/folder/   path/to/dictionary.txt/file/
+python summary.py    path/to/input/folder/    path/to/output/folder/   path/to/dictionary.txt/file/
 ```
 
 ### Prerequisites
