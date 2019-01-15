@@ -17,6 +17,7 @@ python preprocess.py    path/to/input/folder/   path/to/output/folder
 #### Run : 
 ```
 python summary.py    path/to/input/folder/    path/to/output/folder/   path/to/dictionary.txt/file/
+python summary_length  path/to/original/doc/folder/    path/to/output/folder/from/summary.py/   path/to/output/folder/    fraction/of/original/text/length/as/summary
 ```
 
 ### Prerequisites
