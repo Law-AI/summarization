@@ -1,11 +1,5 @@
 This repository contains the modified code for the ACL 2017 paper *[Get To The Point: Summarization with Pointer-Generator Networks](https://arxiv.org/abs/1704.04368)*. For an intuitive overview of the paper, read the [blog post](http://www.abigailsee.com/2017/04/16/taming-rnns-for-better-summarization.html).
 
-## Looking for test set output?
-The test set output of the models described in the paper can be found [here](https://drive.google.com/file/d/0B7pQmm-OfDv7MEtMVU5sOHc5LTg/view?usp=sharing).
-
-(The only difference between these two is the naming of some of the variables in the checkpoint. Tensorflow 1.0 uses `lstm_cell/biases` and `lstm_cell/weights` whereas Tensorflow 1.2.1 uses `lstm_cell/bias` and `lstm_cell/kernel`).
-
-
 ## About this code
 This code is based on the [TextSum code](https://github.com/tensorflow/models/tree/master/textsum) from Google Brain.
 
@@ -19,8 +13,6 @@ Tensorflow 1.0's [new seq2seq library](https://www.tensorflow.org/api_guides/pyt
 
 ### Get the dataset and chunk data
 Obtain the  dataset, and run make_datafiles_2.py on the directory. Once finished, you should have [chunked](https://github.com/abisee/cnn-dailymail/issues/3) datafiles `train_000.bin`, ..., `train_287.bin`, `val_000.bin`, ..., `val_013.bin`, `test_000.bin`, ..., `test_011.bin` (each contains 1000 examples) and a vocabulary file `vocab`.
-
-**Note**: If you did this before 7th May 2017, follow the instructions [here](https://github.com/abisee/cnn-dailymail/issues/2) to correct a bug in the process.
 
 ### Run training
 To train your model, run:
