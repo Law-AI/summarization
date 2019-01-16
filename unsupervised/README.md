@@ -1,7 +1,7 @@
 # Unsupervised summarization algorithms
 
 We apply two types of unsupervised algorithms:
-* Legal domain-independent (RBM)
+* Domain-independent (RBM)
 * Legal domain-specific (CaseSummarizer)
 
 ## Generated summaries

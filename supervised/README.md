@@ -1,7 +1,7 @@
 # Supervised summarization algorithms
 
 We apply two types of supervised algorithms:
-* Legal domain-independent (Pointer-generator)
+* Domain-independent (Pointer-generator)
 * Legal domain-specific (Graphical Model, LetSum)
 
 ## Generated summaries
