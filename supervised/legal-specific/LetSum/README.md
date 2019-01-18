@@ -1,17 +1,17 @@
 # Algorithm: LetSum
 
-[Paper](http://rali.iro.umontreal.ca/rali/?q=en/node/673)
+[LetSum, a Text Summarization system in Law field - Farzindar, A., and G. Lapalme](http://rali.iro.umontreal.ca/rali/?q=en/node/673)
 
 ## Execution
 
 ``` 
 $ python
->>> import rouge_letsum
+>>> import letsum
 >>> import letsum_test
 >>> summary = letsum_test.LetSum('sample input.txt')
 ```
 
-We use ROUGE as a metric of summary evaluation. The top level file here is [rouge_letsum.py](rouge_letsum.py), which loops over all the testing documents, generates a summary, compares it with the manually annotated summary provided by WestLaw, computed and reports the ROUGE score for each document. Following is an explanation of how the top level file operates.
+We use ROUGE as a metric of summary evaluation. The top level file here is [letsum.py](letsum.py), which loops over all the testing documents, generates a summary, compares it with the manually annotated summary provided by WestLaw, computed and reports the ROUGE score for each document. Following is an explanation of how the top level file operates.
 
 The sample output is available at [`results_letsum.txt`](results_letsum.txt). The summary is generated as follows:
 

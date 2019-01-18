@@ -10,7 +10,6 @@ import sys
 import time
 
 import letsum_test
-import rouge_crf
 
 FULL_TEXT = '../../FullText_html/'
 MANUAL_SUM = '../../CaseAnalysis/'
@@ -21,8 +20,8 @@ REACHED_FILE = ''
 
 ## Max time taken so far: 3.87 hours
 ##
-## Usage: python rouge_letsum.py
-## Additionally: python rouge_letsum.py from_year to_year reached_file
+## Usage: python letsum.py
+## Additionally: python letsum.py from_year to_year reached_file
 ##
 ## Goes upto, but not including to_year, skips files alphabetically smaller than reached_file
 ## 
@@ -57,7 +56,7 @@ def summary_letsum_looper(from_year=2010, to_year=2019, reached_file=''):
 				continue
 			i2 = i - i0
 			
-			manual_summary = rouge_crf.get_manual_summary(MANUAL_SUM   + str(year) + '/' + case)
+			manual_summary = letsum_test.get_manual_summary(MANUAL_SUM   + str(year) + '/' + case)
 			if manual_summary == -1:
 				print('+- Score ', i2, ' / ', l, '    ', i, ' / ', length, ' ', case, ' => Skipped')
 				i += 1

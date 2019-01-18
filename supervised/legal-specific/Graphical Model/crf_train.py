@@ -8,7 +8,6 @@ from sklearn_crfsuite import metrics
 import sys
 import json
 # from ..formulated_constants import include_toggled_phrases, include_toggled_pairs
-sys.path.append('..')
 import formulated_constants
 import operator
 import pycrfsuite
@@ -18,8 +17,7 @@ import re
 import os
 # http://www.albertauyeung.com/post/python-sequence-labelling-with-crf/
 
-TRAIN_TXT_FOLDER = '../annotated'
-TRAIN_JSON_FOLDER = '../annotated_json'
+TRAIN_FOLDER = '../annotated'
 
 cue_phrases = formulated_constants.categorical_phrases
 cue_pairs = formulated_constants.categorical_pairs
@@ -279,18 +277,20 @@ def train_crf():
 
 	print('Starting training')
 
-	i, length = 1, len(os.listdir(TRAIN_TXT_FOLDER))
-	for file in os.listdir(TRAIN_TXT_FOLDER):
+	TXTS = [doc for doc in os.listdir(TRAIN_FOLDER) if doc.split('.')[-1] == 'txt']
+	i, length = 1, len(TXTS)
+	for file in TXTS:
 		print('+ Reading file ', i, ' / ', length, '=> ', file)
-		X_train, Y_train = trainFromAnnotatedTxt(TRAIN_TXT_FOLDER + '/' + file)
+		X_train, Y_train = trainFromAnnotatedTxt(TRAIN_FOLDER + '/' + file)
 		for xseq, yseq in zip(X_train, Y_train):
 			trainer.append(xseq, yseq)
 		i += 1
 
-	i, length = 1, len(os.listdir(TRAIN_JSON_FOLDER))
-	for file in os.listdir(TRAIN_JSON_FOLDER):
+	JSONS = [doc for doc in os.listdir(TRAIN_FOLDER) if doc.split('.')[-1] == 'json']
+	i, length = 1, len(JSONS)
+	for file in JSONS:
 		print('+ Reading file ', i, ' / ', length, '=> ', file)
-		X_train, Y_train = trainFromAnnotatedJson(TRAIN_JSON_FOLDER + '/' + file)
+		X_train, Y_train = trainFromAnnotatedJson(TRAIN_FOLDER + '/' + file)
 		for xseq, yseq in zip(X_train, Y_train):
 			trainer.append(xseq, yseq)
 		i += 1
