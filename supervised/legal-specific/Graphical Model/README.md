@@ -1,18 +1,18 @@
 # Algorithm: Graphical Model
 
-[Paper](https://www.cse.iitm.ac.in/~ravi/papers/Saravanan_jurix_06.pdf)
+[Improving Legal Document Summarization Using Graphical Models - M. Saravanana, B. Ravindran and S. Raman](https://www.cse.iitm.ac.in/~ravi/papers/Saravanan_jurix_06.pdf)
 
 ## Execution
 
 ```py
 $ python
->>> import rouge_crf
->>> summary = rouge_crf.get_summary('sample input.txt')
+>>> import graphicalModel
+>>> summary = graphicalModel.get_summary('sample input.txt')
 ```
 
-The following code assumes the reader has some basic understanding of the algorithm beforehand. The above instruction is the only step needed to extract tehe summary, the following is just an explanation of [rouge_crf.py](rouge_crf.py)
+The following code assumes the reader has some basic understanding of the algorithm beforehand. The above instruction is the only step needed to extract tehe summary, the following is just an explanation of [graphicalModel.py](graphicalModel.py)
 
-We use ROUGE as a metric of summary evaluation. The top level file here is [rouge_crf.py](rouge_crf.py), which loops over all the testing documents, generates a summary via Graphical Model (CRF - Conditional Random Field), compares it with the manually annotated summary provided by WestLaw, computed and reports the ROUGE score for each document. 
+We use ROUGE as a metric of summary evaluation. The top level file here is [graphicalModel.py](graphicalModel.py), which loops over all the testing documents, generates a summary via Graphical Model (CRF - Conditional Random Field), compares it with the manually annotated summary provided by WestLaw, computed and reports the ROUGE score for each document. 
 
 The sample output is available at [`results_crf.txt`](results_crf.txt). The process fo generating summary for a legal document involves the following steps:
 
@@ -69,4 +69,4 @@ r = observed mean                s = observed IDF
 
 ## Generating the summary
 
-We rank the sentences based on their KMM score (obtained above), and keep adding sentences in a decreasing order of their scores, as long as the template length of summary is not filled. Have a look at [`rouge_crf.py`](rouge_crf.py)'s `get_summary` function to have a look how this is implemented.
+We rank the sentences based on their KMM score (obtained above), and keep adding sentences in a decreasing order of their scores, as long as the template length of summary is not filled. Have a look at [`graphicalModel.py`](graphicalModel.py)'s `get_summary` function to have a look how this is implemented.

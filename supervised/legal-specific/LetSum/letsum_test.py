@@ -24,7 +24,6 @@ from math import log
 import html2text
 import nltk
 
-sys.path.append('..')
 import formulated_constants
 from formulated_constants import include_toggled_phrases, include_toggled_pairs
 
@@ -89,6 +88,53 @@ def parse_html(file):
 		indices.append(i-start)
 
 	return text, indices
+
+def get_manual_summary(file):
+	'''
+		Get manual summary from case analysis
+	'''
+	# rewriting parse_html, as format is different
+	with open(file, 'r') as f:
+		txt = f.read()
+	
+	txt=(txt.replace('</?(?!(?:p class=indent)\b)[a-z](?:[^>\"\']|\"[^\"]*\"|\'[^\']*\')*>',''))
+	t = html2text.html2text(txt)
+
+	tokenized = nltk.tokenize.sent_tokenize(t)
+	t2 = []
+	for each in tokenized:
+		lines = list( filter( None, each.split('\n') ) )
+		t2.extend(lines)
+
+	tokenized = t2
+	start = 0 
+	
+	# Real summary is the first occurence of "Summmary"
+	while start < len(tokenized) and 'summary' not in tokenized[start].lower():
+		start = start + 1
+	
+	# 2010_U_113.html has no summary
+	if start == len(tokenized):
+		return -1
+
+	text = []
+	closing = ['appellate history', 'thomson reuters south asia private limited', 'all cases cited',
+				'cases citing this case', 'legislation cited']
+	
+	summary_str = ' **Summary:** '
+	text.append(tokenized[start].replace('\n', ' ')[len(summary_str):])
+
+	for i in range(start+1,len(tokenized)):
+		if any(closing_phrase in tokenized[i].lower() for closing_phrase in closing) :
+			break
+		text.append(tokenized[i].replace('\n',' '))
+	
+	# just in case some closing phrase is missed
+	# if('thomson reuters south asia private limited' in tokenized[i].lower()):
+	# 	print('verify ', file)
+	
+	summary = ' '.join(text)
+	return summary
 
 
 def LetSum(file):

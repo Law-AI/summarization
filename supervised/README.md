@@ -23,8 +23,8 @@ than this decide first place this interest of than place , merits , shall intere
 
 ```
 $ python
->>> import rouge_crf
->>> rouge_crf.get_summary('sample input.txt')
+>>> import graphicalModel
+>>> graphicalModel.get_summary('sample input.txt')
 'Where any such claim is made, an assessment shall be made on the basis of the 
 income, profits and gains of the said period, and, if an amount of tax has 
 already been paid in respect of the income, profits and gains of the previous 
@@ -60,7 +60,7 @@ statement of the case it does not appear that apart from the mere change in the
 
 ``` 
 $ python
->>> import rouge_letsum
+>>> import letsum
 >>> import letsum_test
 >>> letsum_test.LetSum('sample input.txt')
 'Tribunal case referred question High Court section 66(1) Act : firm 

@@ -4,7 +4,6 @@ import re
 import json
 
 ANNOTATED_FOLDER = 'annotated'
-ANNOTATED_JSON = 'annotated_json'
 CATEGORIES_FOLDER = 'categories'
 
 category_abbr = {
@@ -21,7 +20,7 @@ def extract_loop():
 		categories - 
 	'''
 	stmts = {}
-	for file in os.listdir(ANNOTATED_FOLDER):
+	for file in [doc for doc in os.listdir(ANNOTATED_FOLDER) if doc.split('.')[-1] == 'txt']
 		# print('Working on ', file)
 		with open(ANNOTATED_FOLDER + '/' + file, 'r') as f:
 			txt = f.readlines()
@@ -41,8 +40,8 @@ def extract_loop():
 			stmts[category].append(' '.join(line.split(' ')[1:])) # remove category
 
 	# JSONs
-	for file in os.listdir(ANNOTATED_JSON):
-		with open(ANNOTATED_JSON + '/' + file, 'r') as f:
+	for file in [doc for doc in os.listdir(ANNOTATED_FOLDER) if doc.split('.')[-1] == 'json']
+		with open(ANNOTATED_FOLDER + '/' + file, 'r') as f:
 			txt = f.readlines()
 		tj = json.loads(''.join(txt))
 
