@@ -14,8 +14,8 @@ This paper focussed on the comparison of summarization algorithms on Indian lega
 
 Types of algorithms:
 
-* Supervised & Unsupervised, domain-specific
-* Neural Networks based
+* Supervised & Unsupervised, domain-specific (Extractive)
+* Neural Networks based (Extractive and Abstractive)
 
 
 ## Work in Progress
