@@ -16,6 +16,3 @@ Types of algorithms:
 
 * Supervised & Unsupervised, domain-specific (Extractive)
 * Neural Networks based (Extractive and Abstractive)
-
-
-## Work in Progress
