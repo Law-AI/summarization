@@ -23,7 +23,7 @@ pairs are considered as the test set. The directory structure is as follows :
     └── test-data                     # folder contains documents and summaries for test
     │   ├── judgement              
     │   ├── summary
-    │   ├── stats-IN-test.txt         # text file containing the word and sentence count statistics of the documents
+    │   ├── stats-IN-test.txt         # text file containing the word and sentence counts of the judgements & the summaries
     
 ## IN-Ext
 
@@ -47,7 +47,7 @@ The directory structure is as follows :
     │   ├── segment-wise          # folder contains segment-wise summaries
     │   │   ├── A1
     │   │   ├── A2
-    ├── IN-EXT-length.txt   # text file containing the word and sentence count statistics of the documents
+    ├── IN-EXT-length.txt         # text file containing the word and sentence counts of the judgements & the summaries
     
 ## UK-Abs
 We crawled 793 full case documents and their corresponding abstractive summaries from https://www.supremecourt.uk/decided-cases/ . Among them, 693 (document, summary) pairs are randomly sampled as the training dataset. The remaining 100 (document, summary) pairs are considered as the test set. 
@@ -69,6 +69,6 @@ The directory structure is as follows :
     │   ├── summary
     │   │   ├── full                  # folder contains full summaries
     │   │   ├── segment-wise          # folder contains segment-wise summaries
-    │   ├── stats-UK-test.txt         # text file containing the word and sentence count statistics of the documents
+    │   ├── stats-UK-test.txt         # text file containing the word and sentence counts of the judgements & the summaries
     
 
