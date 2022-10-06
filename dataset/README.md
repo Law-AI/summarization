@@ -70,5 +70,24 @@ The directory structure is as follows :
     │   ├── segment-wise          # folder contains segment-wise summaries
     │   │   ├── A1
     │   │   ├── A2
-    ├── stats-IN-train.txt        # text file containing the word and sentence count statistics of the documents
-   
+    ├── IN-EXT-length.txt   # text file containing the word and sentence count statistics of the documents
+    
+## UK-Abs
+We crawled 793 full case documents and their corresponding abstractive summaries from https://www.supremecourt.uk/decided-cases/ . Among them, 693 (document, summary) pairs are randomly sampled as the training dataset. The remaining 100 (document, summary) pairs are considered as the test set. Similar to IN-Ext, the summaries in the dataset are segment-wise. The segments in the UK dataset are 'background' , 'judgement' and 'reasons'. The test-data folder contains these segment-wise and full summaries.
+
+The directory structure is as follows :
+
+
+    .
+    ├── train-data                    # folder contains documents and summaries for training
+    │   ├── judgement              
+    │   ├── summary             
+    │   ├── stats-UK-train.txt        # text file containing the word and sentence count statistics of the documents
+    └── test-data                     # folder contains documents and summaries for test
+    │   ├── judgement              
+    │   ├── summary
+    │   │   ├── full                  # folder contains full summaries
+    │   │   ├── segment-wise          # folder contains segment-wise summaries
+    │   ├── stats-UK-test.txt         # text file containing the word and sentence count statistics of the documents
+    
+
