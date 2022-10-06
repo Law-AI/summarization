@@ -1,84 +1,78 @@
-# Supervised summarization algorithms
+This folder contains dataset of the paper *Legal Case Document Summarization: Extractive and Abstractive Methods and their Evaluation* accepted at AACL-IJCNLP 2022.
 
-We implement the Graphical Model implemented by [Saravanan et. al](https://www.cse.iitm.ac.in/~ravi/papers/Saravanan_jurix_06.pdf), and [LetSum](http://rali.iro.umontreal.ca/rali/?q=en/node/673), which both depend on pre-identified cue words. Since the domain of cases the previous works varied hugely with the focus of domains, we started out with identification of cue words.
+There are 3 datasets :
+- IN-Abs : Indian Supreme Court case documents & their `abstractive' summaries, obtained from http://www.liiofindia.org/in/cases/cen/INSC/
+- IN-Ext : Indian Supreme Court case documents & their `extractive' summaries, written by two law experts (A1, A2).
+- UK-Abs : United Kingdom (U.K.) Supreme Court case documents & their `abstractive' summaries, obtained from https://www.supremecourt.uk/decided-cases/
 
-## Identification of cue words (common to both algorithms)
+# Details of each dataset
 
-We start off with labelled data in the format
-`S1 I The question in this appeal is whether the grant of a mining lease for a period of ten years by the assessee can give rise to a capital gain taxable under section 45 of Income-tax Act, 1961.`
+## IN-Abs
+We crawled 7,130 full case documents and their corresponding abstractive summaries from http://www.liiofindia.org/in/cases/cen/INSC/ . Among them, 7030 (document, summary) pairs are randomly sampled as the training dataset. The remaining 100 (document, summary) pairs are considered as the test set. The directory structure is as follows :
 
-or 
-```
-{
-            "label": [
-                "Ruling by the present court"
-            ],
-            "points": [
-                {
-                    "start": 11683,
-                    "end": 12929,
-                    "text": " As can be seen from the reading of the aforesaid portion of the circular, the issue was examined after keeping in mind judgments of CESTAT in Gujarat Ambuja Cement Ltd. and M/s. Ultratech Cement Ltd. Those judgments, obviously, dealt with unamended Rule 2(l) of Rules, 2004. The three conditions which were mentioned explaining the 'place of removal' are defined in Section 4 of the Act. It is not the case of the Department that the three conditions laid down in the said Circular are not satisfied. If we accept the contention of the Department, it would nullify the effect of the word 'from' the place of removal appearing in the aforesaid definition. Once it is accepted that place of removal is the factory premises of the assessee, outward transportation 'from the said place' would clearly amount to input service. That place can be warehouse of the manufacturer or it can be customer's place if from the place of removal the goods are directly dispatched to the place of the customer. One such outbound transportation from the place of removal gets covered by the definition of input service.\n9. We, thus, do not find any infirmity in the impugned judgment. Appeals are devoid of any merit and are accordingly dismissed.\nAppeals dismissed"
-                }
-            ]
-        }
-```
+IN-Abs                
+├── train-data              # folder contains documents and summaries for training
+│   ├── judgement           # folder contains documents (sentence splitted)
+│   ├── summary             # folder contains summaries (sentence splitted)
+│   ├── stats-IN-train.txt  # text file containing the word and sentence count statistics of the documents
+│
+├── test-data               # folder contains documents and summaries for test/evaluation (100 docs)
+    ├── judgement           # folder contains documents (sentence splitted)
+    ├── summary             # folder contains summaries (sentence splitted)
+    ├── stats-IN-test.txt   # text file containing the word and sentence count statistics of the documents
+   
+   
+## IN-Ext
+This dataset contains 50 Indian Supreme Court case documents and their extractive summaries. For each document, there are two summaries written individually by two law experts A1 and A2. Each summary by each law expert is of two types : full & segment-wise.
+"full" : a coherent piece of summary.
+"segment-wise" : the following segments are considered -- 'analysis', 'argument', 'facts', 'judgement', 'statute'. A "full" summary is broken down into these segments. Each segment is a folder.
+For a particular document, appending the "segment-wise" summaries results in a "full" summary. 
+As an example, consider the document 1953_L_1.txt. We have the full text of the document in the "judgement" folder. The "summary" folder contains two sub-folders "full" and "segment-wise". Under each subfolder, there are two subfolders "A1" and "A2" .
+summary/full/A1/1953_L_1.txt --> contains the full summary of 1953_L_1.txt written by A1.
+summary/full/A2/1953_L_1.txt --> contains the full summary of 1953_L_1.txt written by A2.
 
-The annotated data lies in [annotated/](annotated/) and [annotated_json/](annotated_json/) folders, corresponding to dataset provided by FIRE legal track, and annotations we obtained via legal experts respectively.
+summary/segment-wise/A1/analysis/1953_L_1.txt --> "analysis" segment of the summary written by A1
+summary/segment-wise/A1/argument/1953_L_1.txt -->  "argument" segment of the summary written by A1
+summary/segment-wise/A1/facts/1953_L_1.txt -->  "facts" segment of the summary written by A1
+summary/segment-wise/A1/judgement/1953_L_1.txt -->  "judgement" segment of the summary written by A1
+summary/segment-wise/A1/statute/1953_L_1.txt -->  "statute" segment of the summary written by A1
 
-Extraction of most common n-grams (unigram, bigram, trigram, 4-grams) from the text is performed, for each category.
+summary/segment-wise/A2/analysis/1953_L_1.txt --> "analysis" segment of the summary written by A2
+summary/segment-wise/A2/argument/1953_L_1.txt -->  "argument" segment of the summary written by A2
+summary/segment-wise/A2/facts/1953_L_1.txt -->  "facts" segment of the summary written by A2
+summary/segment-wise/A2/judgement/1953_L_1.txt -->  "judgement" segment of the summary written by A2
+summary/segment-wise/A2/statute/1953_L_1.txt -->  "statute" segment of the summary written by A2
 
-### Categories
+The directory structure is as follows :
 
-Since supervised algorithms in summarization are template-filling tasks, we follow the categorization provided by [Fire Legal Track 2013](https://www.isical.ac.in/~fire/2013/legal.html), which is as follows:
+IN-Ext                
+├── judgement             # folder contains documents 
+│   
+├── summary              # folder contains summaries 
+│    ├── full             # folder contains full summaries 
+│    │	  ├── A1
+│    │	  ├── A2
+│    ├── segment-wise
+│    │	  ├── A1
+│    │	  ├── A2            
+├── IN-EXT-length.txt   # text file containing the word and sentence count statistics of the documents
 
-| Category | Code |
-| --- | --- |
-| Facts | F (FI / FE) |
-| Issue | I | 
-| Argument | A |
-| Ruling by lower court | LR |
-| Statute | SS |
-| Precedent | SP |
-| Other general standards, including customary, equitable and other extra-legal considerations | SO |
-| Ruling by the present court | R |
+## UK-Abs
+We crawled 793 full case documents and their corresponding abstractive summaries from https://www.supremecourt.uk/decided-cases/ . Among them, 693 (document, summary) pairs are randomly sampled as the training dataset. The remaining 100 (document, summary) pairs are considered as the test set. Similar to IN-Ext, the summaries in the dataset are segment-wise. The segments in the UK dataset are 'background' , 'judgement' and 'reasons'. The test-data folder contains these segment-wise and full summaries.
 
+The directory structure is as follows :
 
-### Category extraction 
+UK-Abs                
+├── train-data              # folder contains documents and summaries for training
+│   ├── judgement           # folder contains documents 
+│   ├── summary             # folder contains summaries 
+│   ├── stats-UK-train.txt  # text file containing the word and sentence count statistics of the documents
+│
+├── test-data               # folder contains documents and summaries for test/evaluation (100 docs)
+    ├── judgement           # folder contains documents 
+    ├── summary             
+    │	   ├── full	    # folder contains full summaries 
+    │	   ├── segment-wise # folder contains segment-wise summaries
+    ├── stats-UK-test.txt   # text file containing the word and sentence count statistics of the documents
+   
 
-We first need to separate out texts in documents according to their categories. This is done by [`extract-categories.py`](extract-categories.py), which stores the category wise text in a [categories/](categories/) folder, used ahead.
-
-### Extraction of n-grams
-
-[`get-n-grams.py`](get-n-grams.py) extracts the top ngrams across each category. It avoids a n-gram to be constructed purely of stop words, like *the*, *an*.
-
-```
-# Get top unigrams for all categories
-$ python get-n-grams.py 1
-# Truncated output, only unary displayed here
- I
-+--------+----+-------------+----+----+----+
-| Phrase | I  | Othermax  R | SO | SP | SS |
-+--------+----+-------------+----+----+----+
-| forest | 11 |    6      4 | 0  | 6  | 1  |
-| lands  | 13 |    6      1 | 0  | 4  | 2  |
-|  and,  | 7  |    6      3 | 2  | 4  | 1  |
-+--------+----+-------------+----+----+----+
-# Top bigrams
-$ python get-n-grams.py 2
-```
-
-Ohtermax indicates the maximum frequency for that n-gram in other categories, which helps us decide whether that n-gram can be used as a cue phrase or not. Some sample Top n-grams can be found in [top_ngrams/](top_ngrams/) folder. The finalized cues are subsequently identified (manually, after the automated n-gram detection is executed) and stored in [`formulated_constants.py`](formulated_constants.py).
-
-The following algorithms require a FullText_html folder and a caseanalysis folder, which we have scraped from WestLaw India. Due to its huge size, we have not made those files available on GitHub. Our training dataset consists of 23 documents, in the `annotated` and `annotated_json` files, and test size is 7820 documents, legal documents dating from the years 2010-2018.
-
-#### Execution
-
-If you wish to extract Ngrams from scratch, please follow the following guidelines. This step is not required if you wish to only generate the summary with pre-trained models.
-```py
-$ python get-n-grams.py 1
-$ python get-n-grams.py 2
-$ python get-n-grams.py 3
-$ python get-n-grams.py 4
-```
-
-We need to manually enter the desired cues in formulated_constants.py.
