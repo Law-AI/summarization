@@ -4,6 +4,8 @@ Implementation of the paper [Extracting the Gist of Chinese Judgments of the Sup
 
 Like all extractive supervised summarization methods, the training data for the model should be sentences labelled 0 (not a summary sentence) or 1 (summary sentence). 
 
+We may use the [extractive_labels.py](https://github.com/Law-AI/summarization/blob/aacl/extractive/abs_to_ext/extractive_labels.py) code to create this training data.
+
 ### Generate the handcrafted features for the training set
 
 `python generate_features.py --data_path /path/to/train/documents/ --features_path /outpath/of/train/features/ --important_words cue_phrases.txt --pos_tags postags.txt --w2v True`
