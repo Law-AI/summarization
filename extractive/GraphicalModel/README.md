@@ -1,4 +1,4 @@
-# Introduction
+# GraphicalModel
 
 Implementation of the paper [Improving Legal Document Summarization Using Graphical Models (https://www.cse.iitm.ac.in/~ravi/papers/Saravanan_jurix_06.pdf), JURIX 2006
 
