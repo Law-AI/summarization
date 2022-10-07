@@ -1,3 +1,9 @@
+### Introduction
+
+Implementation of the paper [Extracting the Gist of Chinese Judgments of the Supreme Court](https://dl.acm.org/doi/10.1145/3322640.3326715), ICAIL 2019
+
+Like all extractive supervised summarization methods, the training data for the model should be sentences labelled 0 (not a summary sentence) or 1 (summary sentence). 
+
 ### Generate the handcrafted features for the training set
 
 `python generate_features.py --data_path /path/to/train/documents/ --features_path /outpath/of/train/features/ --important_words cue_phrases.txt --pos_tags postags.txt --w2v True`
@@ -22,8 +28,9 @@
 `python infer.py --data_path /path/to/test/documents/ --features_path /outpath/of/test/features/ --summary_path /path/to/save/summaries/ --model_path /path/to/trained/model.pkl --length_file /path/to/summary/length/file`
 The prediction probability of each sentence in stored in /outpath/of/test/features/pred_scores/ [this directory is automatically created]
 
-*format of length file*
-<filename> tab <required-summary-length-in-words>
+### format of length file
+
+filename <TAB> required-summary-length-in-words
 
 
 ### External libraries required
