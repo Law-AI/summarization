@@ -1,5 +1,5 @@
 # TextSummarizer
-Source code of the paper [Extractive Summarization using Deep Learning](https://arxiv.org/pdf/1708.04439.pdf)
+Implementation of the paper [Extractive Summarization using Deep Learning](https://arxiv.org/pdf/1708.04439.pdf)
 
 Description: Used two layers of Restricted Boltzmann Machine as a Deep Belief Network to enhance and abstract various features such as named entities, proper nouns, numeric tokens, sentence position etc. to score sentences then selecting the top scores, hence producing an extractive summary.
 
