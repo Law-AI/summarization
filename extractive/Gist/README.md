@@ -1,4 +1,4 @@
-### Introduction
+### Gist
 
 Implementation of the paper [Extracting the Gist of Chinese Judgments of the Supreme Court](https://dl.acm.org/doi/10.1145/3322640.3326715), ICAIL 2019
 
