@@ -1,4 +1,4 @@
-### Introduction
+# MMR
 
 Implementation of the paper [Automatic Summarization of Legal Decisions using Iterative Masking of Predictive Sentences](https://dl.acm.org/doi/10.1145/3322640.3326728) ICAIL, 2019
 
