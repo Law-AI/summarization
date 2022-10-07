@@ -1,3 +1,9 @@
+### Introduction
+
+This code converts an abstractive gold standard summary to extractive. Given the full document and its abstractive gold standard summary, the code labels each sentence in the full document either 1 (meaning that it is a summary sentence) or 0 (meaning that it is not a summary sentence).
+
+The extractive training data thus generated can be used to train extractive supervised summarization methods like [Gist](https://github.com/Law-AI/summarization/tree/aacl/extractive/Gist).
+
 ### Basic command to run:
 `python extractive_labels.py /path/to/base/directory`
 
