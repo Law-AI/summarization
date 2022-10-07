@@ -3,9 +3,9 @@
 This folder contains dataset of the paper *Legal Case Document Summarization: Extractive and Abstractive Methods and their Evaluation* accepted at AACL-IJCNLP 2022. The dataset repository can be downloaded from https://zenodo.org/record/7152317#.Yz6mJ9JByC0 .
 
 There are 3 datasets :
-- IN-Abs : Indian Supreme Court case documents & their `abstractive' summaries, obtained from http://www.liiofindia.org/in/cases/cen/INSC/
-- IN-Ext : Indian Supreme Court case documents & their `extractive' summaries, written by two law experts (A1, A2).
-- UK-Abs : United Kingdom (U.K.) Supreme Court case documents & their `abstractive' summaries, obtained from https://www.supremecourt.uk/decided-cases/
+- IN-Abs : Indian Supreme Court case documents & their *abstractive* summaries, obtained from http://www.liiofindia.org/in/cases/cen/INSC/
+- IN-Ext : Indian Supreme Court case documents & their *extractive* summaries, written by two law experts (A1, A2).
+- UK-Abs : United Kingdom (U.K.) Supreme Court case documents & their *abstractive* summaries, obtained from https://www.supremecourt.uk/decided-cases/
 
 # Details of each dataset
 
@@ -71,4 +71,13 @@ The directory structure is as follows :
     │   │   ├── segment-wise          # folder contains segment-wise summaries
     │   ├── stats-UK-test.txt         # text file containing the word and sentence counts of the judgements & the summaries
     
+# Citation
+If you are using the dataset, please refer to the following paper:
+```
+@inproceedings{bhattacharya2021,
+  title={Legal Case Document Summarization: Extractive and Abstractive Methods and their Evaluation},
+  author={Shukla, Abhay and Bhattacharya, Paheli and Poddar, Soham and Mukherjee, Rajdeep and Ghosh, Kripabandhu and Goyal, Pawan and Ghosh, Saptarshi},
+  booktitle={The 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 12th International Joint Conference on Natural Language Processing},
+  year={2022}
+}
 
