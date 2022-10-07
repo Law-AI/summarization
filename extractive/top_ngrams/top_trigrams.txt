@@ -1,0 +1,377 @@
+
+
+ F
++------------------------------+----+----------+----+----+----+----+----+----+----+
+|            Phrase            | F  | Othermax | A  | I  | LR | R  | SO | SP | SS |
++------------------------------+----+----------+----+----+----+----+----+----+----+
+|        the High Court        | 42 |    40    | 22 | 17 | 40 | 36 | 1  | 8  | 1  |
+|         the basis of         | 19 |    7     | 6  | 1  | 3  | 7  | 1  | 4  | 3  |
+|         on the basis         | 18 |    9     | 5  | 1  | 2  | 9  | 1  | 3  | 2  |
+|         of the High          | 13 |    16    | 7  | 7  | 5  | 16 | 0  | 3  | 0  |
+|        High Court of         | 13 |    6     | 2  | 6  | 5  | 0  | 0  | 0  | 0  |
+|     the State Government     | 14 |    12    | 6  | 0  | 1  | 12 | 0  | 6  | 0  |
+|        in respect of         | 12 |    14    | 8  | 1  | 4  | 8  | 0  | 5  | 14 |
+|          of the Act          | 23 |    27    | 14 | 8  | 9  | 14 | 0  | 7  | 27 |
+|       of the appellant       | 15 |    20    | 5  | 0  | 2  | 20 | 1  | 1  | 0  |
+|         28 gold bars         | 12 |    0     | 0  | 0  | 0  | 0  | 0  | 0  | 0  |
+|       to the appellant       | 13 |    2     | 0  | 0  | 2  | 2  | 0  | 0  | 0  |
+|      the appellant was       | 11 |    4     | 3  | 2  | 1  | 4  | 0  | 0  | 0  |
+|         the State of         | 10 |    7     | 0  | 0  | 1  | 7  | 0  | 2  | 4  |
+|         the value of         | 10 |    21    | 21 | 4  | 3  | 0  | 0  | 5  | 11 |
+|        that the said         | 9  |    0     | 0  | 0  | 0  | 0  | 0  | 0  | 0  |
+|         the name of          | 9  |    6     | 3  | 0  | 6  | 0  | 0  | 1  | 0  |
+|         of the Code          | 10 |    11    | 1  | 3  | 9  | 11 | 0  | 0  | 2  |
+|   (hereinafter referred to   | 8  |    2     | 0  | 2  | 0  | 0  | 0  | 0  | 2  |
+|        referred to as        | 8  |    4     | 0  | 2  | 0  | 0  | 0  | 1  | 4  |
+|       for the purpose        | 8  |    5     | 5  | 2  | 3  | 5  | 2  | 2  | 1  |
+|         for the year         | 11 |    3     | 1  | 0  | 0  | 3  | 0  | 0  | 1  |
+|         the 28 gold          | 7  |    0     | 0  | 0  | 0  | 0  | 0  | 0  | 0  |
+|         of the said          | 7  |    4     | 1  | 0  | 3  | 2  | 0  | 0  | 4  |
+|      the provisions of       | 7  |    21    | 5  | 2  | 1  | 5  | 0  | 0  | 21 |
+|         by the State         | 7  |    3     | 1  | 0  | 0  | 3  | 0  | 2  | 0  |
+|     of the Constitution      | 8  |    4     | 2  | 1  | 2  | 2  | 1  | 0  | 4  |
+|         of the State         | 7  |    5     | 5  | 0  | 0  | 5  | 0  | 3  | 3  |
+|        the purpose of        | 7  |    3     | 3  | 2  | 3  | 2  | 2  | 2  | 0  |
+|         of the land          | 7  |    3     | 0  | 0  | 2  | 3  | 0  | 0  | 0  |
+|        State of Bihar        | 10 |    4     | 1  | 0  | 1  | 4  | 0  | 0  | 0  |
+|        of the estate         | 11 |    8     | 2  | 0  | 1  | 1  | 0  | 0  | 8  |
+|       defendant No. 2        | 10 |    9     | 0  | 1  | 4  | 9  | 0  | 0  | 0  |
+|         the case of          | 7  |    19    | 9  | 0  | 2  | 19 | 0  | 6  | 6  |
+|     the Zonal Promotion      | 7  |    9     | 0  | 0  | 0  | 9  | 0  | 0  | 0  |
+|  Zonal Promotion Committee   | 7  |    9     | 0  | 0  | 0  | 9  | 0  | 0  | 0  |
+|    the confidential roll     | 11 |    4     | 0  | 0  | 0  | 4  | 0  | 0  | 0  |
+|     in the confidential      | 7  |    2     | 0  | 0  | 0  | 2  | 0  | 0  | 0  |
+|   Trichur Railway Station    | 6  |    1     | 0  | 1  | 0  | 1  | 0  | 0  | 0  |
+|   the Additional Collector   | 6  |    0     | 0  | 0  | 0  | 0  | 0  | 0  | 0  |
+|       stated that the        | 7  |    1     | 0  | 0  | 1  | 0  | 0  | 1  | 0  |
+|       before the High        | 6  |    3     | 3  | 1  | 3  | 0  | 0  | 0  | 0  |
+|        of the Indian         | 6  |    4     | 2  | 1  | 2  | 0  | 0  | 0  | 4  |
+|         by the High          | 6  |    8     | 3  | 7  | 8  | 7  | 0  | 0  | 0  |
+|         in the year          | 6  |    3     | 3  | 0  | 0  | 2  | 1  | 1  | 2  |
+|         the land in          | 7  |    6     | 1  | 0  | 6  | 1  | 0  | 0  | 0  |
+|    the Income-tax Officer    | 6  |    6     | 3  | 0  | 2  | 1  | 0  | 1  | 6  |
+|         In the year          | 7  |    0     | 0  | 0  | 0  | 0  | 0  | 0  | 0  |
+|      the management of       | 6  |    8     | 0  | 0  | 0  | 1  | 0  | 0  | 8  |
+|      management of the       | 6  |    8     | 0  | 0  | 0  | 1  | 0  | 0  | 8  |
+|         of the Act.          | 6  |    4     | 3  | 1  | 1  | 2  | 0  | 4  | 2  |
+|      the plaintiff and       | 6  |    1     | 0  | 0  | 0  | 0  | 0  | 0  | 1  |
+|       included in the        | 6  |    2     | 1  | 0  | 1  | 2  | 0  | 0  | 0  |
+|       according to the       | 7  |    2     | 2  | 0  | 2  | 2  | 1  | 0  | 0  |
+|      the Indian Police       | 6  |    2     | 0  | 0  | 0  | 2  | 0  | 0  | 0  |
+|    Indian Police Service     | 6  |    2     | 0  | 0  | 0  | 2  | 0  | 0  | 0  |
+|         of the value         | 6  |    4     | 3  | 0  | 2  | 0  | 0  | 2  | 4  |
+|         in the name          | 6  |    5     | 3  | 0  | 5  | 0  | 0  | 1  | 0  |
+|         of the seats         | 6  |    1     | 0  | 0  | 0  | 1  | 0  | 0  | 0  |
+|         value of Rs.         | 6  |    3     | 0  | 0  | 1  | 0  | 0  | 0  | 3  |
+|      of the partnership      | 6  |    9     | 0  | 0  | 9  | 0  | 0  | 1  | 2  |
+|     the partnership deed     | 6  |    6     | 2  | 0  | 6  | 0  | 0  | 1  | 0  |
+|     Excise and Taxation      | 6  |    3     | 3  | 0  | 0  | 0  | 0  | 1  | 0  |
+|         of the case          | 6  |    4     | 2  | 1  | 2  | 4  | 0  | 3  | 0  |
+|         taken by the         | 6  |    4     | 1  | 0  | 2  | 4  | 0  | 0  | 0  |
+|     the Northern Region      | 7  |    2     | 1  | 0  | 1  | 2  | 0  | 0  | 0  |
+|      of the Corporation      | 8  |    1     | 1  | 0  | 0  | 1  | 0  | 0  | 0  |
+|  socially and educationally  | 6  |    1     | 0  | 0  | 0  | 0  | 0  | 1  | 0  |
+|        The High Court        | 6  |    19    | 4  | 0  | 19 | 7  | 1  | 1  | 0  |
+|       partners of the        | 6  |    12    | 1  | 0  | 12 | 0  | 0  | 1  | 0  |
+|          (1) of the          | 7  |    4     | 3  | 1  | 4  | 4  | 0  | 0  | 3  |
+|       by the plaintiff       | 6  |    4     | 1  | 0  | 4  | 3  | 0  | 1  | 0  |
+|        of the auction        | 6  |    2     | 1  | 0  | 0  | 2  | 0  | 1  | 0  |
+|         of the road          | 7  |    8     | 0  | 1  | 8  | 1  | 0  | 0  | 0  |
+|      agreement to sell       | 6  |    4     | 0  | 0  | 4  | 2  | 0  | 0  | 0  |
+| the registration certificate | 7  |    3     | 3  | 3  | 3  | 0  | 0  | 0  | 0  |
+|      show cause notice       | 6  |    0     | 0  | 0  | 0  | 0  | 0  | 0  | 0  |
+|       to the plaintiff       | 7  |    3     | 0  | 0  | 2  | 3  | 0  | 0  | 0  |
+|       by the appellant       | 6  |    2     | 0  | 0  | 2  | 1  | 0  | 2  | 0  |
+|         of the firm          | 6  |    3     | 2  | 0  | 3  | 0  | 0  | 1  | 3  |
+|          sum of Rs.          | 6  |    4     | 0  | 0  | 1  | 4  | 0  | 0  | 0  |
+|  and educationally backward  | 6  |    1     | 0  | 0  | 0  | 0  | 0  | 1  | 0  |
+|       of the partners        | 9  |    14    | 4  | 0  | 14 | 0  | 0  | 1  | 6  |
+|        of the plaint         | 6  |    2     | 0  | 0  | 2  | 2  | 0  | 0  | 2  |
+|        to the plaint         | 8  |    3     | 0  | 0  | 2  | 3  | 0  | 0  | 0  |
++------------------------------+----+----------+----+----+----+----+----+----+----+
+
+
+ LR
++----------------------+----+----------+----+----+----+----+----+----+----+
+|        Phrase        | LR | Othermax | A  | F  | I  | R  | SO | SP | SS |
++----------------------+----+----------+----+----+----+----+----+----+----+
+|    the High Court    | 40 |    42    | 22 | 42 | 17 | 36 | 1  | 8  | 1  |
+|    The High Court    | 19 |    7     | 4  | 6  | 0  | 7  | 1  | 1  | 0  |
+|    held that the     | 16 |    7     | 7  | 2  | 3  | 2  | 1  | 5  | 0  |
+|   partners of the    | 12 |    6     | 1  | 6  | 0  | 0  | 0  | 1  | 0  |
+|      21 of the       | 9  |    6     | 6  | 3  | 1  | 0  | 0  | 0  | 0  |
+|    on the ground     | 8  |    5     | 5  | 4  | 1  | 2  | 0  | 5  | 2  |
+|     of the Code      | 9  |    11    | 1  | 10 | 3  | 11 | 0  | 0  | 2  |
+|     of Order 21      | 8  |    3     | 0  | 3  | 0  | 2  | 0  | 1  | 1  |
+|     by the High      | 8  |    7     | 3  | 6  | 7  | 7  | 0  | 0  | 0  |
+|     to the High      | 8  |    4     | 2  | 4  | 0  | 2  | 0  | 0  | 0  |
+|      of the Act      | 9  |    27    | 14 | 23 | 8  | 14 | 0  | 7  | 27 |
+|   the partners of    | 8  |    5     | 1  | 5  | 0  | 0  | 0  | 0  | 0  |
+|  of the partnership  | 9  |    6     | 0  | 6  | 0  | 0  | 0  | 1  | 2  |
+|     Order 21 of      | 7  |    3     | 0  | 3  | 0  | 0  | 0  | 0  | 0  |
+| the defendants were  | 7  |    3     | 0  | 3  | 0  | 1  | 0  | 0  | 0  |
+|    the middle of     | 7  |    4     | 0  | 4  | 1  | 1  | 0  | 0  | 0  |
+|     view of the      | 7  |    6     | 2  | 3  | 1  | 6  | 0  | 1  | 0  |
+|   the ground that    | 6  |    5     | 5  | 4  | 1  | 2  | 0  | 5  | 2  |
+| that the defendants  | 6  |    1     | 0  | 1  | 0  | 1  | 0  | 0  | 0  |
+|  The Division Bench  | 6  |    1     | 1  | 0  | 0  | 0  | 0  | 0  | 0  |
+|     filed by the     | 6  |    5     | 1  | 5  | 2  | 1  | 0  | 1  | 0  |
+|    in the middle     | 6  |    2     | 0  | 2  | 1  | 1  | 0  | 0  | 0  |
+|   by the Tribunal    | 10 |    2     | 0  | 2  | 1  | 1  | 1  | 1  | 0  |
+|    middle of the     | 6  |    3     | 0  | 3  | 1  | 1  | 0  | 0  | 0  |
+| the partnership deed | 6  |    6     | 2  | 6  | 0  | 0  | 0  | 1  | 0  |
+|     the name of      | 6  |    9     | 3  | 9  | 0  | 0  | 0  | 1  | 0  |
+|  the suit premises   | 8  |    2     | 0  | 2  | 0  | 0  | 0  | 0  | 0  |
+|     the land in      | 6  |    7     | 1  | 7  | 0  | 1  | 0  | 0  | 0  |
+|   of the assessee    | 11 |    5     | 5  | 3  | 0  | 3  | 1  | 0  | 1  |
+|   of the Tribunal    | 7  |    3     | 3  | 3  | 0  | 2  | 2  | 0  | 0  |
+|   question of law    | 6  |    13    | 3  | 2  | 2  | 0  | 4  | 13 | 0  |
+|     of the road      | 8  |    7     | 0  | 7  | 1  | 1  | 0  | 0  | 0  |
+|   of the partners    | 14 |    9     | 4  | 9  | 0  | 0  | 0  | 1  | 6  |
+|    he High Court     | 61 |    48    | 26 | 48 | 17 | 43 | 2  | 9  | 1  |
+|   the parent firm    | 6  |    0     | 0  | 0  | 0  | 0  | 0  | 0  | 0  |
+|  he Division Bench   | 11 |    6     | 6  | 1  | 2  | 4  | 0  | 0  | 0  |
++----------------------+----+----------+----+----+----+----+----+----+----+
+
+
+ SO
++--------------------+----+----------+---+---+---+----+---+----+----+
+|       Phrase       | SO | Othermax | A | F | I | LR | R | SP | SS |
++--------------------+----+----------+---+---+---+----+---+----+----+
+|  Civil Appeal No.  | 36 |    2     | 2 | 0 | 0 | 0  | 2 | 0  | 0  |
+|   of 2015, Civil   | 22 |    0     | 0 | 0 | 0 | 0  | 0 | 0  | 0  |
+| 2015, Civil Appeal | 22 |    0     | 0 | 0 | 0 | 0  | 0 | 0  | 0  |
+|   of 2017, Civil   | 9  |    0     | 0 | 0 | 0 | 0  | 0 | 0  | 0  |
+| 2017, Civil Appeal | 9  |    0     | 0 | 0 | 0 | 0  | 0 | 0  | 0  |
+| Civil Appeal Nos.  | 6  |    0     | 0 | 0 | 0 | 0  | 0 | 0  | 0  |
++--------------------+----+----------+---+---+---+----+---+----+----+
+
+
+ R
++---------------------------+----+----------+----+----+----+----+----+----+----+
+|           Phrase          | R  | Othermax | A  | F  | I  | LR | SO | SP | SS |
++---------------------------+----+----------+----+----+----+----+----+----+----+
+|       the High Court      | 36 |    42    | 22 | 42 | 17 | 40 | 1  | 8  | 1  |
+|        the case of        | 19 |    9     | 9  | 7  | 0  | 2  | 0  | 6  | 6  |
+|      of the appellant     | 20 |    15    | 5  | 15 | 0  | 2  | 1  | 1  | 0  |
+|        of the High        | 16 |    13    | 7  | 13 | 7  | 5  | 0  | 3  | 0  |
+|      the Amending Act     | 20 |    10    | 0  | 3  | 3  | 5  | 0  | 0  | 10 |
+|        case of the        | 14 |    5     | 4  | 5  | 0  | 1  | 0  | 1  | 0  |
+|         of the Act        | 14 |    27    | 14 | 23 | 8  | 9  | 0  | 7  | 27 |
+|      of the Amending      | 10 |    9     | 0  | 0  | 1  | 2  | 0  | 0  | 9  |
+|        of the Code        | 11 |    10    | 1  | 10 | 3  | 9  | 0  | 0  | 2  |
+|      by the Amending      | 10 |    1     | 0  | 0  | 1  | 1  | 0  | 0  | 1  |
+|    the State Government   | 12 |    14    | 6  | 14 | 0  | 1  | 0  | 6  | 0  |
+|        on the basis       | 9  |    18    | 5  | 18 | 1  | 2  | 1  | 3  | 2  |
+|    the Zonal Promotion    | 9  |    7     | 0  | 7  | 0  | 0  | 0  | 0  | 0  |
+| Zonal Promotion Committee | 9  |    7     | 0  | 7  | 0  | 0  | 0  | 0  | 0  |
+|       amended by the      | 8  |    2     | 1  | 2  | 1  | 1  | 0  | 0  | 1  |
+|       passed by the       | 8  |    4     | 3  | 4  | 4  | 0  | 1  | 0  | 0  |
+|       in respect of       | 8  |    14    | 8  | 12 | 1  | 4  | 0  | 5  | 14 |
+|        the cost of        | 8  |    4     | 3  | 3  | 0  | 4  | 0  | 1  | 4  |
+|        the date of        | 8  |    6     | 6  | 3  | 0  | 3  | 0  | 5  | 4  |
+|      defendant No. 2      | 9  |    10    | 0  | 10 | 1  | 4  | 0  | 0  | 0  |
+|     of the preliminary    | 8  |    1     | 1  | 1  | 1  | 0  | 0  | 0  | 0  |
+|        could not be       | 7  |    4     | 4  | 4  | 1  | 3  | 0  | 2  | 0  |
+|        part of the        | 7  |    7     | 6  | 3  | 0  | 4  | 0  | 7  | 4  |
+|        by the High        | 7  |    8     | 3  | 6  | 7  | 8  | 0  | 0  | 0  |
+|        the State of       | 7  |    10    | 0  | 10 | 0  | 1  | 0  | 2  | 4  |
+|        in the case        | 7  |    7     | 7  | 1  | 1  | 2  | 0  | 5  | 6  |
+|         case of a         | 7  |    5     | 2  | 1  | 0  | 0  | 0  | 1  | 5  |
+|       set aside the       | 7  |    3     | 0  | 3  | 1  | 2  | 0  | 1  | 1  |
+|      the judgment and     | 7  |    4     | 0  | 1  | 4  | 0  | 0  | 0  | 0  |
+|        the basis of       | 7  |    19    | 6  | 19 | 1  | 3  | 1  | 4  | 3  |
+|        in order to        | 7  |    5     | 5  | 4  | 0  | 0  | 0  | 0  | 1  |
+|        on the part        | 7  |    2     | 1  | 1  | 0  | 2  | 0  | 0  | 0  |
+|        the part of        | 7  |    1     | 1  | 1  | 0  | 1  | 0  | 0  | 0  |
+|      in execution of      | 7  |    1     | 0  | 0  | 1  | 0  | 0  | 0  | 1  |
+|      execution of the     | 7  |    2     | 0  | 2  | 0  | 0  | 0  | 2  | 0  |
+|        to the suit        | 8  |    0     | 0  | 0  | 0  | 0  | 0  | 0  | 0  |
+|        view of the        | 6  |    7     | 2  | 3  | 1  | 7  | 0  | 1  | 0  |
+|       The High Court      | 7  |    19    | 4  | 6  | 0  | 19 | 1  | 1  | 0  |
+|       High Court was      | 6  |    2     | 2  | 1  | 0  | 0  | 0  | 0  | 0  |
+|     provisions of the     | 6  |    7     | 3  | 4  | 1  | 1  | 0  | 0  | 7  |
+|        the Code as        | 6  |    2     | 0  | 0  | 1  | 2  | 0  | 0  | 0  |
+|      Code as amended      | 6  |    1     | 0  | 0  | 1  | 1  | 0  | 0  | 0  |
+|       as amended by       | 6  |    2     | 1  | 2  | 2  | 1  | 0  | 0  | 2  |
+|       State of Uttar      | 6  |    2     | 0  | 0  | 0  | 1  | 0  | 1  | 2  |
+|        the order of       | 6  |    5     | 5  | 4  | 5  | 4  | 0  | 1  | 3  |
+|        order of the       | 6  |    6     | 5  | 5  | 6  | 3  | 0  | 0  | 2  |
+|       regard to the       | 6  |    7     | 7  | 4  | 0  | 0  | 0  | 1  | 0  |
+|    State Government or    | 6  |    1     | 0  | 1  | 0  | 0  | 0  | 0  | 0  |
+|   the preliminary decree  | 10 |    4     | 4  | 3  | 1  | 1  | 0  | 0  | 0  |
+|     of the respondent     | 7  |    4     | 2  | 4  | 1  | 1  | 0  | 0  | 0  |
+|      of Uttar Pradesh     | 6  |    2     | 0  | 0  | 0  | 1  | 0  | 1  | 2  |
+|        of the Court       | 7  |    1     | 1  | 0  | 0  | 0  | 1  | 1  | 1  |
+|       of section 97       | 7  |    3     | 0  | 0  | 1  | 1  | 0  | 0  | 3  |
+|      Government or a      | 10 |    4     | 0  | 0  | 0  | 0  | 0  | 0  | 4  |
+|      the final decree     | 6  |    5     | 5  | 1  | 0  | 0  | 0  | 0  | 1  |
+|   the auction purchasers  | 8  |    1     | 1  | 1  | 0  | 0  | 0  | 0  | 0  |
+|    cost of acquisition    | 7  |    4     | 4  | 1  | 0  | 1  | 0  | 0  | 0  |
+|   the auction purchaser   | 12 |    1     | 1  | 1  | 0  | 0  | 0  | 1  | 0  |
+|         ed to the         | 13 |    24    | 14 | 24 | 3  | 10 | 0  | 4  | 5  |
+|        ment of the        | 18 |    19    | 7  | 16 | 2  | 5  | 2  | 6  | 19 |
+|        tion of the        | 39 |    36    | 16 | 36 | 7  | 19 | 4  | 12 | 12 |
++---------------------------+----+----------+----+----+----+----+----+----+----+
+
+
+ A
++----------------------------+----+----------+----+----+----+----+----+----+----+
+|           Phrase           | A  | Othermax | F  | I  | LR | R  | SO | SP | SS |
++----------------------------+----+----------+----+----+----+----+----+----+----+
+|       by the service       | 30 |    3     | 1  | 1  | 0  | 0  | 0  | 0  | 3  |
+|        the value of        | 21 |    11    | 10 | 4  | 3  | 0  | 0  | 5  | 11 |
+|       the High Court       | 22 |    42    | 42 | 17 | 40 | 36 | 1  | 8  | 1  |
+|    the service provider    | 22 |    3     | 0  | 1  | 0  | 0  | 0  | 0  | 3  |
+|   the service recipient    | 20 |    2     | 2  | 0  | 0  | 0  | 0  | 0  | 0  |
+|         of the Act         | 14 |    27    | 23 | 8  | 9  | 14 | 0  | 7  | 27 |
+|        the case of         | 9  |    19    | 7  | 0  | 2  | 19 | 0  | 6  | 6  |
+|       charged by the       | 10 |    3     | 0  | 1  | 0  | 0  | 0  | 0  | 3  |
+|     under Section 12A      | 9  |    5     | 2  | 5  | 2  | 1  | 0  | 0  | 0  |
+|       behalf of the        | 8  |    3     | 3  | 0  | 0  | 0  | 0  | 0  | 0  |
+|    learned counsel for     | 8  |    2     | 0  | 0  | 1  | 2  | 0  | 0  | 0  |
+|      counsel for the       | 8  |    2     | 1  | 0  | 1  | 2  | 0  | 0  | 0  |
+|        terms of the        | 8  |    4     | 2  | 0  | 2  | 4  | 2  | 1  | 0  |
+|       in respect of        | 8  |    14    | 12 | 1  | 4  | 8  | 0  | 5  | 14 |
+|        the place of        | 8  |    4     | 1  | 0  | 0  | 4  | 0  | 0  | 4  |
+|        of the High         | 7  |    16    | 13 | 7  | 5  | 16 | 0  | 3  | 0  |
+|        in the case         | 7  |    7     | 1  | 1  | 2  | 7  | 0  | 5  | 6  |
+|        in terms of         | 8  |    3     | 1  | 1  | 3  | 2  | 0  | 1  | 1  |
+|       High Court in        | 7  |    5     | 5  | 4  | 2  | 4  | 0  | 2  | 0  |
+|      the gross amount      | 11 |    8     | 2  | 0  | 0  | 0  | 0  | 1  | 8  |
+|    gross amount charged    | 12 |    11    | 2  | 0  | 0  | 0  | 0  | 1  | 11 |
+|      provided by the       | 7  |    2     | 2  | 0  | 0  | 0  | 0  | 0  | 0  |
+|        of goods and        | 7  |    2     | 1  | 0  | 0  | 0  | 0  | 0  | 2  |
+|      for admission to      | 7  |    5     | 5  | 0  | 1  | 3  | 0  | 5  | 0  |
+|       regard to the        | 7  |    6     | 4  | 0  | 0  | 6  | 0  | 1  | 0  |
+|    the General Clauses     | 7  |    2     | 0  | 1  | 2  | 0  | 0  | 0  | 1  |
+|        the basis of        | 6  |    19    | 19 | 1  | 3  | 7  | 1  | 4  | 3  |
+|        on behalf of        | 6  |    3     | 3  | 0  | 1  | 0  | 0  | 0  | 0  |
+|        a person who        | 6  |    3     | 1  | 0  | 0  | 1  | 0  | 3  | 2  |
+|       person who is        | 6  |    1     | 1  | 0  | 0  | 1  | 0  | 0  | 1  |
+|        part of the         | 6  |    7     | 3  | 0  | 4  | 7  | 0  | 7  | 4  |
+|       held that the        | 7  |    16    | 2  | 3  | 16 | 2  | 1  | 5  | 0  |
+|       to be included       | 7  |    1     | 0  | 1  | 0  | 0  | 0  | 0  | 0  |
+|       to the service       | 6  |    1     | 0  | 0  | 0  | 1  | 0  | 0  | 0  |
+|    the State Government    | 6  |    14    | 14 | 0  | 1  | 12 | 0  | 6  | 0  |
+|     in investments and     | 6  |    1     | 0  | 0  | 0  | 0  | 1  | 0  | 1  |
+|        the date of         | 6  |    8     | 3  | 0  | 3  | 8  | 0  | 5  | 4  |
+|      the licence fee       | 6  |    1     | 1  | 0  | 0  | 0  | 0  | 1  | 0  |
+|       Section 21 of        | 6  |    2     | 0  | 1  | 2  | 0  | 0  | 0  | 0  |
+|         21 of the          | 6  |    9     | 3  | 1  | 9  | 0  | 0  | 0  | 0  |
+|       of the General       | 7  |    2     | 0  | 1  | 2  | 0  | 0  | 0  | 1  |
+|       driver of the        | 7  |    5     | 5  | 0  | 4  | 0  | 0  | 0  | 0  |
+|        of the goods        | 6  |    7     | 2  | 0  | 1  | 0  | 1  | 7  | 6  |
+|       value of goods       | 10 |    2     | 1  | 1  | 0  | 0  | 0  | 0  | 2  |
+|      for the service       | 6  |    1     | 0  | 0  | 0  | 0  | 0  | 0  | 1  |
+|   Indian Medical Council   | 6  |    1     | 1  | 0  | 0  | 0  | 0  | 0  | 1  |
+|  the entrance examination  | 7  |    2     | 2  | 0  | 1  | 1  | 0  | 0  | 0  |
+|     contended that the     | 6  |    3     | 3  | 1  | 0  | 0  | 1  | 0  | 1  |
+|      place of removal      | 13 |    8     | 0  | 0  | 0  | 5  | 0  | 0  | 8  |
+|    General Clauses Act     | 7  |    2     | 0  | 1  | 2  | 0  | 0  | 0  | 2  |
+| investments and properties | 6  |    1     | 0  | 0  | 0  | 0  | 0  | 0  | 1  |
+|     of taxable service     | 8  |    8     | 2  | 0  | 0  | 0  | 0  | 0  | 8  |
++----------------------------+----+----------+----+----+----+----+----+----+----+
+
+
+ SS
++-----------------------------+----+----------+----+----+---+----+----+----+----+
+|            Phrase           | SS | Othermax | A  | F  | I | LR | R  | SO | SP |
++-----------------------------+----+----------+----+----+---+----+----+----+----+
+|          of the Act         | 27 |    23    | 14 | 23 | 8 | 9  | 14 | 0  | 7  |
+|      the provisions of      | 21 |    7     | 5  | 7  | 2 | 1  | 5  | 0  | 0  |
+|        in respect of        | 14 |    12    | 8  | 12 | 1 | 4  | 8  | 0  | 5  |
+|         the value of        | 11 |    21    | 21 | 10 | 4 | 3  | 0  | 0  | 5  |
+|      estates or tenures     | 15 |    0     | 0  | 0  | 0 | 0  | 0  | 0  | 0  |
+|          as may be          | 10 |    1     | 1  | 1  | 0 | 0  | 0  | 0  | 0  |
+|       of the Amending       | 9  |    10    | 0  | 0  | 1 | 2  | 10 | 0  | 0  |
+|        the estates or       | 9  |    0     | 0  | 0  | 0 | 0  | 0  | 0  | 0  |
+|     the commencement of     | 8  |    5     | 0  | 1  | 1 | 2  | 5  | 0  | 0  |
+|      to the provisions      | 8  |    1     | 1  | 0  | 0 | 0  | 1  | 0  | 0  |
+|      the management of      | 8  |    6     | 0  | 6  | 0 | 0  | 1  | 0  | 0  |
+|      management of the      | 8  |    6     | 0  | 6  | 0 | 0  | 1  | 0  | 0  |
+| proprietor or tenure-holder | 8  |    1     | 0  | 0  | 0 | 0  | 1  | 0  | 0  |
+|       the gross amount      | 8  |    11    | 11 | 2  | 0 | 0  | 0  | 0  | 1  |
+|       the Amending Act      | 10 |    20    | 0  | 3  | 3 | 5  | 20 | 0  | 0  |
+|      provisions of the      | 7  |    6     | 3  | 4  | 1 | 1  | 6  | 0  | 0  |
+|        of the estates       | 7  |    1     | 0  | 1  | 0 | 0  | 0  | 0  | 0  |
+|      the proprietor or      | 7  |    1     | 0  | 0  | 0 | 0  | 1  | 0  | 0  |
+|         as the case         | 7  |    4     | 4  | 4  | 0 | 0  | 1  | 0  | 0  |
+|         the case may        | 7  |    3     | 3  | 3  | 0 | 0  | 1  | 0  | 0  |
+|         case may be,        | 7  |    2     | 1  | 2  | 0 | 0  | 0  | 0  | 0  |
+|         per cent of         | 7  |    2     | 0  | 2  | 0 | 2  | 0  | 0  | 2  |
+|         cent of the         | 8  |    2     | 0  | 2  | 0 | 2  | 0  | 0  | 2  |
+|        in relation to       | 8  |    2     | 2  | 0  | 0 | 1  | 1  | 0  | 0  |
+|          by way of          | 7  |    3     | 1  | 3  | 0 | 3  | 1  | 0  | 2  |
+|     gross amount charged    | 11 |    12    | 12 | 2  | 0 | 0  | 0  | 0  | 1  |
+|      the Government of      | 6  |    2     | 0  | 1  | 0 | 0  | 0  | 0  | 2  |
+|         in the case         | 6  |    7     | 7  | 1  | 1 | 2  | 7  | 0  | 5  |
+|         the case of         | 6  |    19    | 9  | 7  | 0 | 2  | 19 | 0  | 6  |
+|         be deemed to        | 6  |    3     | 3  | 0  | 1 | 0  | 3  | 0  | 1  |
+|      of the Provincial      | 6  |    0     | 0  | 0  | 0 | 0  | 0  | 0  | 0  |
+|       the purposes of       | 6  |    3     | 1  | 0  | 0 | 0  | 3  | 0  | 1  |
+|       purposes of this      | 6  |    0     | 0  | 0  | 0 | 0  | 0  | 0  | 0  |
+|          in a case          | 6  |    2     | 0  | 2  | 0 | 0  | 0  | 0  | 0  |
+|         a case where        | 6  |    2     | 0  | 0  | 0 | 0  | 0  | 0  | 2  |
+|        the course of        | 6  |    2     | 1  | 0  | 0 | 0  | 1  | 0  | 2  |
+|        case where the       | 6  |    1     | 0  | 0  | 0 | 0  | 0  | 0  | 1  |
+|   the Textile Commissioner  | 7  |    4     | 3  | 1  | 2 | 3  | 2  | 4  | 0  |
+|  the Provincial Government  | 10 |    0     | 0  | 0  | 0 | 0  | 0  | 0  | 0  |
+|      of taxable service     | 8  |    8     | 8  | 2  | 0 | 0  | 0  | 0  | 0  |
+|     the taxable service     | 7  |    5     | 5  | 1  | 2 | 0  | 0  | 0  | 0  |
+|    the Income-tax Officer   | 6  |    6     | 3  | 6  | 0 | 2  | 1  | 0  | 1  |
+|    the Central Government   | 7  |    3     | 3  | 1  | 0 | 1  | 2  | 1  | 1  |
+|         of the goods        | 6  |    7     | 6  | 2  | 0 | 1  | 0  | 1  | 7  |
+|       of the partners       | 6  |    14    | 4  | 9  | 0 | 14 | 0  | 0  | 1  |
+|       place of removal      | 8  |    13    | 13 | 0  | 0 | 0  | 5  | 0  | 0  |
+|     proprietor or tenure    | 10 |    1     | 0  | 0  | 0 | 0  | 1  | 0  | 0  |
+|    proprietor or tenure-    | 9  |    1     | 0  | 0  | 0 | 0  | 1  | 0  | 0  |
+|        of the estate        | 8  |    11    | 2  | 11 | 0 | 1  | 1  | 0  | 0  |
+|      may be prescribed      | 6  |    1     | 1  | 1  | 0 | 0  | 0  | 0  | 0  |
++-----------------------------+----+----------+----+----+---+----+----+----+----+
+
+
+ I
++----------------+----+----------+----+----+----+----+----+----+----+
+|     Phrase     | I  | Othermax | A  | F  | LR | R  | SO | SP | SS |
++----------------+----+----------+----+----+----+----+----+----+----+
+| the High Court | 17 |    42    | 22 | 42 | 40 | 36 | 1  | 8  | 1  |
+|  of the High   | 7  |    16    | 7  | 13 | 5  | 16 | 0  | 3  | 0  |
+|  order of the  | 6  |    6     | 5  | 5  | 3  | 6  | 0  | 0  | 2  |
+|  by the High   | 7  |    8     | 3  | 6  | 8  | 7  | 0  | 0  | 0  |
+| High Court of  | 6  |    13    | 2  | 13 | 5  | 0  | 0  | 0  | 0  |
+|   of the Act   | 8  |    27    | 14 | 23 | 9  | 14 | 0  | 7  | 27 |
++----------------+----+----------+----+----+----+----+----+----+----+
+
+
+ SP
++------------------------+----+----------+----+----+----+----+----+----+----+
+|         Phrase         | SP | Othermax | A  | F  | I  | LR | R  | SO | SS |
++------------------------+----+----------+----+----+----+----+----+----+----+
+|     this Court in      | 14 |    4     | 4  | 1  | 0  | 1  | 4  | 0  | 0  |
+|     a question of      | 13 |    3     | 0  | 1  | 1  | 3  | 1  | 3  | 0  |
+|    question of law     | 13 |    6     | 3  | 2  | 2  | 6  | 0  | 4  | 0  |
+|      it was held       | 8  |    3     | 2  | 0  | 1  | 3  | 0  | 0  | 0  |
+|     the High Court     | 8  |    42    | 22 | 42 | 17 | 40 | 36 | 1  | 1  |
+|     of this Court      | 7  |    4     | 2  | 2  | 1  | 2  | 4  | 0  | 0  |
+|      part of the       | 7  |    7     | 6  | 3  | 0  | 4  | 7  | 0  | 4  |
+|  evidence to support   | 7  |    1     | 0  | 0  | 0  | 0  | 0  | 1  | 0  |
+|      50% cut off       | 7  |    3     | 3  | 0  | 0  | 0  | 0  | 0  | 0  |
+|      of the goods      | 7  |    6     | 6  | 2  | 0  | 1  | 0  | 1  | 6  |
+|     by this Court      | 8  |    2     | 2  | 1  | 1  | 1  | 2  | 0  | 0  |
+|      the case of       | 6  |    19    | 9  | 7  | 0  | 2  | 19 | 0  | 6  |
+|      v. State of       | 6  |    2     | 2  | 1  | 0  | 1  | 0  | 0  | 0  |
+|  the State Government  | 6  |    14    | 6  | 14 | 0  | 1  | 12 | 0  | 0  |
+|    question of fact    | 7  |    2     | 0  | 0  | 0  | 0  | 1  | 2  | 0  |
+|  by the Commissioners  | 6  |    0     | 0  | 0  | 0  | 0  | 0  | 0  | 0  |
+| question for decision  | 6  |    1     | 0  | 0  | 1  | 0  | 0  | 0  | 0  |
+|     in the nature      | 6  |    2     | 1  | 2  | 2  | 1  | 0  | 0  | 0  |
+|     the nature of      | 6  |    4     | 1  | 2  | 3  | 2  | 4  | 2  | 0  |
+|      value of the      | 6  |    5     | 5  | 5  | 4  | 2  | 0  | 1  | 4  |
+|     of the company     | 8  |    5     | 0  | 1  | 0  | 0  | 0  | 1  | 5  |
+|    of the contract     | 8  |    2     | 2  | 0  | 0  | 0  | 0  | 1  | 1  |
+|       of the Act       | 7  |    27    | 14 | 23 | 8  | 9  | 14 | 0  | 27 |
+|   on undrawn liquor    | 6  |    0     | 0  | 0  | 0  | 0  | 0  | 0  | 0  |
+|       est in the       | 6  |    3     | 0  | 3  | 1  | 1  | 1  | 0  | 0  |
+| Commissioner of Income | 7  |    4     | 1  | 4  | 1  | 0  | 0  | 1  | 0  |
++------------------------+----+----------+----+----+----+----+----+----+----+
