@@ -10,18 +10,18 @@ We list the different methods from each type.
 
 | Paper  | Short Name | Type| 
 | ------------- | ------------- |------------- |
-| [Improving Legal Document Summarization Using Graphical Models - M. Saravanana, B. Ravindran and S. Raman](https://www.cse.iitm.ac.in/~ravi/papers/Saravanan_jurix_06.pdf)  | GraphicalModel  | Unsupervised |
-| [LetSum, a Text Summarization system in Law field - Farzindar, A., and G. Lapalme](http://rali.iro.umontreal.ca/rali/?q=en/node/673)  | LetSum  | Unsupervised |
-|[CaseSummarizer](http://www.aclweb.org/anthology/C16-2054) | CaseSummarizer | Unsupervised |
-|[Automatic Summarization of Legal Decisions using Iterative Masking of Predictive Sentences](https://dl.acm.org/doi/10.1145/3322640.3326728) | MMR | Unsupervised |
-|[Extracting the Gist of Chinese Judgments of the Supreme Court](https://dl.acm.org/doi/10.1145/3322640.3326715) | Gist | Supervised |
+| [Improving Legal Document Summarization Using Graphical Models - M. Saravanana, B. Ravindran and S. Raman](https://www.cse.iitm.ac.in/~ravi/papers/Saravanan_jurix_06.pdf), JURIX 2006  | GraphicalModel  | Unsupervised |
+| [LetSum, a Text Summarization system in Law field - Farzindar, A., and G. Lapalme](http://rali.iro.umontreal.ca/rali/?q=en/node/673), JURIX 2004  | LetSum  | Unsupervised |
+|[CaseSummarizer](http://www.aclweb.org/anthology/C16-2054), COLING 2016 | CaseSummarizer | Unsupervised |
+|[Automatic Summarization of Legal Decisions using Iterative Masking of Predictive Sentences](https://dl.acm.org/doi/10.1145/3322640.3326728), ICAIL 2019 | MMR | Unsupervised |
+|[Extracting the Gist of Chinese Judgments of the Supreme Court](https://dl.acm.org/doi/10.1145/3322640.3326715), ICAIL 2019 | Gist | Supervised |
 
 
 
 ## Legal-domain independent
 | Paper  | Short Name | Type| 
 | ------------- | ------------- |------------- |
-|[Extractive Summarization using Deep Learning](https://arxiv.org/pdf/1708.04439.pdf)| RBM | Unsupervised |
+|[Extractive Summarization using Deep Learning](https://arxiv.org/pdf/1708.04439.pdf), arXiv preprint, 2017 | RBM | Unsupervised |
 
 
 ## Steps common to GraphicalModel and LetSum
