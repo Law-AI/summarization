@@ -1,0 +1,52 @@
+<caseDesc>
+SAKHKKAR MILLS MAZDOOR SANGH V. GWALIOR SUGAR CO. LTD. [1985] INSC 32; AIR 1985 SC 758; 1985 (2) SCR 958; 1985 (2) SCC 134; 1985 (1) SCALE 301 (22 February 1985) 
+</caseDesc>
+
+<proposition>
+
+S1 FI The first respondent is a company engaged in the manufacture of sugar and employing over 1100 workers, 300 of them on a permanent basis and 800 on a seasonal basis. 
+
+S2 FI The permanent employees are those employed on the clerical side and in the operation and maintenance of machines. 
+
+S3 FI The other 800 employees are seasonal employees who are so employed because the factory itself does not work through out the year but works during a certain season every year from December when the sugarcane crop is ready for crushing until the crushing is over.
+
+S4 FI The employer refused to pay bonus to the seasonal employees during the year 1964-65 on the ground that they were not employed through out the year. 
+
+S5 FI A dispute arose between the management and the Mazdoor Sangh which was referred to the Industrial Court Madhya Pradesh, Indore for arbitration under sec.49 of the Madhya Pradesh Industrial Relations Act. 
+
+S6 LR The Industrial Court decided in favour of the workers, but on a writ petition filed by the company, the award of the arbitrator was quashed and it was held that the workers were only entitled to proportionate bonus and not the minimum bonus 960 guaranteed by sec. 10 of the Payment of Bonus Act, 1965.
+
+S7 I This appeal has been filed by the Mazdoor Sangh under a certificate granted by the High Court of Madhya Pradesh.
+
+S8 I To our minds the question is a simple one and is capable of only one answer. 
+
+S9 SS Sections 10 and 13 of the Payment of Bonus Act, as they stood at the relevant time, were as follows: Section 10. 
+
+S10 SS PAYMENT OF MINIMUM BONUS- Subject to the provisions of ss 8 and 13 every employer shall be bound to pay to every employee in an accounting year a minimum bonus which shall be four per cent of the salary or wage earned by the employee during the accounting year or forty rupees, whichever is higher, whether there are profits in the accounting year or not:
+Provided that where such employee has not completed fifteen years of age at the beginning of the accounting year, the provisions of this section shall have effect in relation to such employee as if for the words 'forty rupees', the words 'twenty five rupees" were substituted. 
+
+S11 SS Section13-PROPORTIONATE REDUCTION OF BONUS IN CERTAIN CASES-Where an employee has not worked for all the working days in any accounting year, the minimum bonus of forty rupees or, as the case may be, of twenty five rupees, per cent, of his salary or wage for the days he has worked in that accounting year shall be proportionately reduced. 
+
+
+S12 LR The High Court has interpreted the words "working days in any accounting year" as meaning all those days of the year except holidays. 
+
+S13 R While such an interpretation may be alright in the case of a factory which works all through the year, it would be hardly appropriate in the case of a factory which works during a particular season every year.
+
+S14 R In the case of a factory which works seasonally during an accounting year, ' working days in any accounting year" can only mean those days of the year during which the employee concerned is actually allowed to work. 
+
+S15 LR That was the interpretation which was placed upon the expression by the Industrial Court  
+
+S16 R and we think it is the proper interpretation.
+
+S17 R Having regard to the scheme and the purpose of the Act, we do not think that the High Court was justified in placing a different construction on the meaning of the expression "working days in any accounting year. 
+
+S18 R We, therefore, set aside the judgment of the High Court and restore the award of the Industrial Court. 
+
+S19 R The bonus payable to the employees will carry interest at the rate of nine per cent per annum from the day when the bonus became due until the date of payment.
+
+S20 R The appeal is allowed with costs.
+
+S21 R N.V.K Appeal allowed.
+
+
+</proposition>
