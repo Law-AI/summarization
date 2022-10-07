@@ -1,6 +1,6 @@
 # LetSum
 
-[LetSum, a Text Summarization system in Law field - Farzindar, A., and G. Lapalme](http://rali.iro.umontreal.ca/rali/?q=en/node/673)
+Implementation of the paper[LetSum, a Text Summarization system in Law field - Farzindar, A., and G. Lapalme](http://rali.iro.umontreal.ca/rali/?q=en/node/673)
 
 ## Execution
 
