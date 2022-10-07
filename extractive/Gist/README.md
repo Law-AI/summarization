@@ -1,0 +1,34 @@
+### Generate the handcrafted features for the training set
+
+`python generate_features.py --data_path /path/to/train/documents/ --features_path /outpath/of/train/features/ --important_words cue_phrases.txt --pos_tags postags.txt --w2v True`
+[if a pretrained word2vec model is not present, a model is trained based on the training set corpus]
+
+`python generate_features.py --data_path /path/to/train/documents/ --features_path /outpath/of/train/features/ --important_words cue_phrases.txt --pos_tags postags.txt --word2vec_path /path/to/trained/word2vec/model.bin`
+[if a pretrained word2vec model is present, mention its path]
+
+### Train the LGBM classifier
+`python train.py --data_path /path/to/train/documents/ --features_path /outpath/of/train/features/ --model_path /path/to/save/learned/model/`
+
+*To view other options (show help):*
+`python train.py -h`
+
+
+### Generate the handcrafted features for test set
+
+`python generate_features.py --data_path /path/to/test/documents/ --features_path /outpath/of/test/features/ --important_words cue_phrases.txt --pos_tags postags.txt --word2vec_path /path/to/trained/word2vec/model.bin`
+
+### Infer summaries using the trained LGBM classifier
+
+`python infer.py --data_path /path/to/test/documents/ --features_path /outpath/of/test/features/ --summary_path /path/to/save/summaries/ --model_path /path/to/trained/model.pkl --length_file /path/to/summary/length/file`
+The prediction probability of each sentence in stored in /outpath/of/test/features/pred_scores/ [this directory is automatically created]
+
+*format of length file*
+<filename> tab <required-summary-length-in-words>
+
+
+### External libraries required
+
+- lightgbm = 2.3.1
+- sklearn = 0.21.3
+- gensim = 3.4.0
+- tqdm
