@@ -1,6 +1,6 @@
 # CaseSummarizer
 
-This repository contains an implementation of the paper [CaseSummarizer](http://www.aclweb.org/anthology/C16-2054)
+Implementation of the paper [CaseSummarizer](http://www.aclweb.org/anthology/C16-2054), COLING 2016
 
 A sample input file, along with its pre-processing output and summary is present in the sample folders.
 
