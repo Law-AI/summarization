@@ -1,6 +1,6 @@
-# Algorithm: Graphical Model
+# Introduction
 
-[Improving Legal Document Summarization Using Graphical Models - M. Saravanana, B. Ravindran and S. Raman](https://www.cse.iitm.ac.in/~ravi/papers/Saravanan_jurix_06.pdf)
+Implementation of the paper [Improving Legal Document Summarization Using Graphical Models (https://www.cse.iitm.ac.in/~ravi/papers/Saravanan_jurix_06.pdf), JURIX 2006
 
 ## Execution
 
