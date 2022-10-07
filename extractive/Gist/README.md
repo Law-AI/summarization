@@ -32,8 +32,9 @@ The prediction probability of each sentence in stored in /outpath/of/test/featur
 
 ### format of length file
 
+```
 filename <TAB> required-summary-length-in-words
-
+```
 
 ### External libraries required
 
