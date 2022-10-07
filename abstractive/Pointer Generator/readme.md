@@ -1,4 +1,4 @@
-#Scripts and codes
+# Scripts and codes
 
 pointer-generator - Repository - https://github.com/abisee/pointer-generator
 
@@ -6,7 +6,7 @@ chunker.ipynb - Script to divide a text file into chunks. Here each chunk will b
 
 combiner.ipynb - Script to combine the summaries generated for each chunk in a text file into the final summary 
 
-#Usage
+# Usage
 
 1. First Change the path variable to the path of the dataset in utilities.py. 
 2. Use chunker to chunk the input text files into chunk text files.

@@ -1,12 +1,12 @@
-#Scripts and codes
+# Scripts and codes
 
 Pretrained_Bigbird.ipynb - Script to generate summaries using chunking based pre-trained BigBird Model 
 
-#Requirements
+# Requirements
 
 transformers 4.12.3
 
-#Usage
+# Usage
 
 1. Change the path variable to the path of the dataset in utilities.py
 2. Follow the instructions given in the notebooks

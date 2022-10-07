@@ -1,8 +1,8 @@
 # Scripts and codes
 
-pegasus-test.ipynb - Script to generate summaries using pre-trained Pegasus Model 
+Legal-LED_generate_summary.ipynb - Script to generate summaries using Legal-LED Model 
 
-pegasus-finetune.ipynb - Script to fine-tune Pegasus Model 
+Legal-LED_finetune.ipynb - Script to fine-tune Legal-LED Model 
 
 # Requirements
 
