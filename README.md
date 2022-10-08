@@ -46,8 +46,6 @@ We provide the implementations of the following methods in the *extractive* fold
   - BERT-BART
   - Legal-LED
   - Pegasus
-  - BertSum-Abs
-  - Pointer Generator
 - Helper chunking and combiner scripts for BertSum-Abs and Pointer Generator methods
 
 # Citation
