@@ -36,7 +36,7 @@ We provide the implementations of the following methods in the *extractive* fold
   - SIF
   - MCS
   - MCS_RR
-- Scripts to finetune following models
+- Scripts to fine-tune following models
   - BART
   - Pegasus
   - Legal-LED
