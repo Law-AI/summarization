@@ -31,7 +31,22 @@ We provide the implementations of the following methods in the *extractive* fold
 
 # Abstractive Summarization methods
 
-We provide the implementations of the following methods :
+- Scripts to generate fine tuning data using following techniques
+  - CLS
+  - SIF
+  - MCS
+  - MCS_RR
+- Scripts to finetune following models
+ - BART
+ - Pegasus
+ - Legal-LED
+- Scripts to generate summaries using following models/methods 
+  - BART(CLS, MCS, SIF)
+  - BART_RR
+  - BERT-BART
+  - Legal-LED
+  - Pegasus
+- Helper chunking and combiner scripts for BertSum-Abs and Pointer Generator methods
 
 # Citation
 If you are using the implementations, please refer to the following papers:

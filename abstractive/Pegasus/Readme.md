@@ -1,6 +1,6 @@
 # Scripts and codes
 
-pegasus-test.ipynb - Script to generate summaries using pre-trained Pegasus Model 
+pegasus-test.ipynb - Script to generate summaries using Pegasus Model 
 
 pegasus-finetune.ipynb - Script to fine-tune Pegasus Model 
 
