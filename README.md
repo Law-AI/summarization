@@ -37,9 +37,9 @@ We provide the implementations of the following methods in the *extractive* fold
   - MCS
   - MCS_RR
 - Scripts to fine-tune following models
-  - BART
-  - Pegasus
-  - Legal-LED
+  - [BART](https://huggingface.co/facebook/BART_large)
+  - [legal-Pegasus](https://huggingface.co/nsi319/legal-pegasus)
+  - [Legal-LED](https://huggingface.co/nsi319/legal-led-base-16384)
 - Scripts to generate summaries using following models/methods 
   - BART(CLS, MCS, SIF)
   - BART_RR
@@ -47,6 +47,11 @@ We provide the implementations of the following methods in the *extractive* fold
   - Legal-LED
   - Pegasus
 - Helper chunking and combiner scripts for BertSum-Abs and Pointer Generator methods
+
+<!-- ## References
+
+- [Enhancing Unsupervised Sentence Similarity Methods with Deep Contextualised Word Representations](https://acl-bg.org/proceedings/2019/RANLP%202019/pdf/RANLP115.pdf), RANLP 2019
+- [Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks](https://arxiv.org/abs/1908.10084), EMNLP 2019 --> 
 
 # Citation
 If you are using the implementations, please refer to the following papers:
