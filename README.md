@@ -37,9 +37,9 @@ We provide the implementations of the following methods in the *extractive* fold
   - MCS
   - MCS_RR
 - Scripts to finetune following models
- - BART
- - Pegasus
- - Legal-LED
+  - BART
+  - Pegasus
+  - Legal-LED
 - Scripts to generate summaries using following models/methods 
   - BART(CLS, MCS, SIF)
   - BART_RR
