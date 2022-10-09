@@ -10,6 +10,15 @@ import pytorch_lightning as pl
 import torch
 from pytorch_lightning.callbacks import ModelCheckpoint
 
+def get_root_path():
+    '''
+    function to get root path of dataset
+
+    change the path variable to the path of the dataset
+    '''
+    path = "/home/pahelibhattacharya/Abhayv2/camera_ready/summarization/dataset"
+    return path
+
 def get_summary_data(dataset, train):
     '''
     function to get names, documents, and summaries
@@ -17,7 +26,7 @@ def get_summary_data(dataset, train):
     change the path variable to the path of the dataset
     '''
     if dataset == "N2":
-        path = '../Datasets/N2/Full-Text/India'
+        path = get_root_path() + '/N2/Full-Text/India'
         all_files = glob.glob(path + "/*.txt")
 
         data_source = []
@@ -31,7 +40,7 @@ def get_summary_data(dataset, train):
                 data_source.append(a)
         return names, data_source, []
     
-    path = '../Datasets/Summary-Data-' + dataset + '/' + train + '-data/judgement'
+    path = get_root_path() + '/Summary-Data-' + dataset + '/' + train + '-data/judgement'
     all_files = glob.glob(path + "/*.txt")
     data_source = []
     names = []
@@ -41,7 +50,7 @@ def get_summary_data(dataset, train):
             names.append(filename[p+1:])
             a = f.read()
             data_source.append(a)
-    path = '../Datasets/Summary-Data-' + dataset + '/' + train + '-data/summary'
+    path = get_root_path() + '/Summary-Data-' + dataset + '/' + train + '-data/summary'
     all_files = glob.glob(path + "/*.txt")
     data_summary = []
     for filename in all_files:
@@ -58,7 +67,7 @@ def get_summary_data_rhet_train(dataset):
 
     change the path variable to the path of the Rhetorical labeled dataset
     '''
-    path = '../Datasets/rhet/' + dataset.lower() + '_ft_rhet' # use your path
+    path = get_root_path() + '/rhet/' + dataset.lower() + '_ft_rhet' # use your path
     all_files = glob.glob(path + "/*.txt")
 
     data_source = []
@@ -70,7 +79,7 @@ def get_summary_data_rhet_train(dataset):
             a = f.read()
             data_source.append(a)
 
-    path = '../Datasets/rhet/RhetSumm_Dataset/raw_files/'+ dataset +'/summary' # use your path
+    path = get_root_path() + '/rhet/RhetSumm_Dataset/raw_files/'+ dataset +'/summary' # use your path
     all_files = glob.glob(path + "/*.txt")
 
     data_summary = {}
@@ -88,7 +97,7 @@ def get_summary_data_rhet_test(dataset):
 
     change the path variable to the path of the Rhetorical labeled dataset
     '''
-    path = '../Datasets/rhet/RhetSumm_Dataset/rhet/' + dataset + "/" # use your path
+    path = get_root_path() + '/rhet/RhetSumm_Dataset/rhet/' + dataset + "/" # use your path
     all_files = glob.glob(path + "/*.txt")
 
     data_source = []
@@ -112,7 +121,7 @@ def get_req_len_dict(dataset, istrain):
     '''
     
     if dataset == "N2":
-        f = open("../Datasets/N2/Summary_Length_India.txt", "r")
+        f = open(get_root_path() + "/N2/Summary_Length_India.txt", "r")
         a = (f.read())
         a = a.split("\n")
         dict_names = {}
@@ -121,7 +130,7 @@ def get_req_len_dict(dataset, istrain):
             dict_names[b[0] + ".txt"] = int(b[1])
         return dict_names 
     
-    f = open("../Datasets/Summary-Data-"+ dataset +"/length-file-" + istrain +".txt", "r")
+    f = open(get_root_path() + "/Summary-Data-"+ dataset +"/length-file-" + istrain +".txt", "r")
     a = (f.read())
     a = a.split("\n")
     dict_names = {}
