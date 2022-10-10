@@ -1,6 +1,6 @@
-# Scripts and codes
+# Scripts
 
-BART_fineTune.ipynb - Script for fine tuning BART model
+BART_fineTune.ipynb - Script for fine-tuning BART model
 
 generate_summaries_chunking_BART.ipynb - Script to generate summaries using chunking based BART method
 
@@ -11,7 +11,9 @@ generate_summaries_chunking_BERT_BART.ipynb - Script to generate summaries using
 # Requirements
 
 transformers  4.12.3
+
 pytorch  1.10
+
 pytorch lightning  1.5.1
 
 # Usage
