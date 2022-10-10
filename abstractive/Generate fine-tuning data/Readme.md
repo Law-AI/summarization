@@ -18,9 +18,9 @@ bert-extractive-summarizer 0.9.0
 
 # Usage
 
-1. Change the path variable to the path of the dataset in utilities.py
+1. Change the path variable in the get_root_path function to the path of the dataset in utilities.py
 2. Add the UK_freq.json or IN_freq.json to the folder
-2. Follow the instructions given in the notebooks
+3. Follow the instructions given in the notebooks
 
 Note that rhetorical role-based segmenting requires rhetorical role labeled documents. Each line in the document would contain a sentence, \t, and the label (sentence_1\tlabel).  
 
