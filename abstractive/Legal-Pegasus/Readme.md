@@ -7,6 +7,7 @@ pegasus-finetune.ipynb - Script to fine-tune Pegasus Model
 # Requirements
 
 transformers 4.12.3
+
 pytorch  1.10
 
 # Usage
