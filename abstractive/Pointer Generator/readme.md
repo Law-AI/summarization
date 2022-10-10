@@ -8,7 +8,7 @@ combiner.ipynb - Script to combine the summaries generated for each chunk in a t
 
 # Usage
 
-1. First Change the path variable to the path of the dataset in utilities.py. 
+1. Change the path variable in the get_root_path function to the path of the dataset in utilities.py
 2. Use chunker to chunk the input text files into chunk text files.
 3. Use the pointer generator method to summarize each chunk. 
 4. Use the combiner to combine the summaries for every chunk to generate the final summaries.
