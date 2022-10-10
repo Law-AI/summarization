@@ -12,8 +12,11 @@ gen_fine_tuning_data_MCS_RR.ipynb - Script to generate fine-tuning data using MC
 # Requirements
 
 transformers  4.12.3
+
 pytorch  1.10
+
 pytorch lightning  1.5.1
+
 bert-extractive-summarizer 0.9.0
 
 # Usage
