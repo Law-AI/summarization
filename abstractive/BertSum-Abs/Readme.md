@@ -15,6 +15,6 @@ torch 1.1.0
 
 # Usage
 
-1. Change the path variable to the path of the dataset in utilities.py
+1. Change the path variable in the get_root_path function to the path of the dataset in utilities.py
 2. Use Chunker to chunk the input documents into chunk files
 3. Use PreSumm to generate summaries for the chunk files
