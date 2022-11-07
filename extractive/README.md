@@ -24,6 +24,13 @@ We list the different methods from each type.
 |[Extractive Summarization using Deep Learning](https://arxiv.org/pdf/1708.04439.pdf), arXiv preprint, 2017 | RBM | Unsupervised |
 
 
+## Trained Models
+
+The following trained models have been made publicly available at https://zenodo.org/record/7234359#.Y2fx09JBy-o
+ - SummaRuNNer
+ - Gist
+
+
 ## Steps common to GraphicalModel and LetSum
 
 Graphical Model and LetSum both depend on pre-identified cue words.
