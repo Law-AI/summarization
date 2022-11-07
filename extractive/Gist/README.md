@@ -30,12 +30,14 @@ We may use the [extractive_labels.py](https://github.com/Law-AI/summarization/bl
 `python infer.py --data_path /path/to/test/documents/ --features_path /outpath/of/test/features/ --summary_path /path/to/save/summaries/ --model_path /path/to/trained/model.pkl --length_file /path/to/summary/length/file`
 The prediction probability of each sentence in stored in /outpath/of/test/features/pred_scores/ [this directory is automatically created]
 
+- The trained model has been made publicly available at https://zenodo.org/record/7234359#.Y2fx09JBy-o
+
+
 ### format of length file
 
 ```
 filename <TAB> required-summary-length-in-words
 ```
-
 ### External libraries required
 
 - lightgbm = 2.3.1
