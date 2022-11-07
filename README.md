@@ -56,7 +56,7 @@ We provide the implementations of the following methods in the *extractive* fold
 # Citation
 If you are using the implementations, please refer to the following papers:
 ```
-@inproceedings{bhattacharya2021,
+@inproceedings{shukla2022,
   title={Legal Case Document Summarization: Extractive and Abstractive Methods and their Evaluation},
   author={Shukla, Abhay and Bhattacharya, Paheli and Poddar, Soham and Mukherjee, Rajdeep and Ghosh, Kripabandhu and Goyal, Pawan and Ghosh, Saptarshi},
   booktitle={The 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 12th International Joint Conference on Natural Language Processing},
