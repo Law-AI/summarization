@@ -24,9 +24,9 @@ We list the different methods from each type.
 |[Extractive Summarization using Deep Learning](https://arxiv.org/pdf/1708.04439.pdf), arXiv preprint, 2017 | RBM | Unsupervised |
 
 
-## Trained Models
+## Availability of Trained Models
 
-The following trained models have been made publicly available at https://zenodo.org/record/7234359#.Y2fx09JBy-o
+The following models trained on the IN-Abs & UK-Abs datasets are publicly available at https://zenodo.org/record/7234359#.Y2fx09JBy-o
  - SummaRuNNer
  - Gist
 
