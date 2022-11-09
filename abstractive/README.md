@@ -10,3 +10,11 @@ This repository contains scripts related to *Abstractive Summarization*  algorit
 | Legal-LED | Scripts to fine-tune and generate summaries using Legal-LED |
 | Legal-Pegasus | Scripts to fine-tune and generate summaries using Pegasus |
 | Pointer Generator | Implementation of Pointer-Generator and helper scripts |
+
+
+# Availability of Trained models
+
+The following models trained on the IN-Abs & UK-Abs datasets, are available at https://zenodo.org/record/7234359#.Y2tShdJByC1
+
+- Legal-LED
+- Legal-Pegasus
