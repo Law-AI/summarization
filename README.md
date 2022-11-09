@@ -48,13 +48,21 @@ We provide the implementations of the following methods in the *extractive* fold
   - Pegasus
 - Helper chunking and combiner scripts for BertSum-Abs and Pointer Generator methods
 
+# Availability of Trained Models
+
+The following models trained on the IN-Abs & UK-Abs datasets are publicly available at https://zenodo.org/record/7234359#.Y2tShdJByC1
+
+- Extractive : SummaRuNNer, Gist
+
+- Abstractive : Legal-Pegasus, Legal-LED
+
 <!-- ## References
 
 - [Enhancing Unsupervised Sentence Similarity Methods with Deep Contextualised Word Representations](https://acl-bg.org/proceedings/2019/RANLP%202019/pdf/RANLP115.pdf), RANLP 2019
 - [Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks](https://arxiv.org/abs/1908.10084), EMNLP 2019 --> 
 
 # Citation
-If you are using the implementations, please refer to the following papers:
+If you are using the implementations / datasets / trained models, please refer to the following papers:
 ```
 @inproceedings{shukla2022,
   title={Legal Case Document Summarization: Extractive and Abstractive Methods and their Evaluation},
